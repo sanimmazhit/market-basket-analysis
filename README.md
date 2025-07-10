@@ -8,7 +8,7 @@ We focus on two approaches:
 
 ## Open Notebook in Google Colab
 
-[Open in Colab](https://colab.research.google.com/github/sanimmazhit/market-basket-analysis/blob/main/notebooks/analysis.ipynb)
+[Open in Colab](https://colab.research.google.com/drive/15MO975_sWjvqt66GcucosX14YXauDcKP?usp=sharing)
 
 ## Project Structure
 
