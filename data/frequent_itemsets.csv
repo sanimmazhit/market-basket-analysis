@@ -1,0 +1,1333 @@
+support,itemsets,length
+0.017784598718064457,frozenset({'able'}),1
+0.014083235533086576,frozenset({'absolutely'}),1
+0.013270741175408505,frozenset({'action'}),1
+0.020041527489392436,frozenset({'actually'}),1
+0.01254852396858355,frozenset({'adventure'}),1
+0.01471517558905841,frozenset({'age'}),1
+0.019499864584273722,frozenset({'ago'}),1
+0.02256928771327977,frozenset({'almost'}),1
+0.01733321296379886,frozenset({'along'}),1
+0.016249887153561432,frozenset({'already'}),1
+0.06870091179922362,frozenset({'also'}),1
+0.0250970479371671,frozenset({'although'}),1
+0.03168727994944479,frozenset({'always'}),1
+0.022659564864132887,frozenset({'amazing'}),1
+0.011916583912611719,frozenset({'amazon'}),1
+0.012458246817730433,frozenset({'american'}),1
+0.03277060575968222,frozenset({'another'}),1
+0.060124582468177305,frozenset({'anyone'}),1
+0.01733321296379886,frozenset({'anything'}),1
+0.019499864584273722,frozenset({'around'}),1
+0.011013812404080527,frozenset({'art'}),1
+0.012097138214317956,frozenset({'attention'}),1
+0.06698564593301436,frozenset({'author'}),1
+0.023833167825223437,frozenset({'authors'}),1
+0.020312358941951793,frozenset({'away'}),1
+0.033312268664800936,frozenset({'back'}),1
+0.017784598718064457,frozenset({'bad'}),1
+0.011194366705786765,frozenset({'basic'}),1
+0.01859709307574253,frozenset({'beautiful'}),1
+0.011194366705786765,frozenset({'become'}),1
+0.013180464024555385,frozenset({'beginning'}),1
+0.0175137672655051,frozenset({'believe'}),1
+0.08133971291866028,frozenset({'best'}),1
+0.057867653696849326,frozenset({'better'}),1
+0.011916583912611719,frozenset({'bible'}),1
+0.016159610002708314,frozenset({'big'}),1
+0.024013722126929673,frozenset({'bit'}),1
+0.6889049381601516,frozenset({'book'}),1
+0.14787397309740904,frozenset({'books'}),1
+0.01643044145526767,frozenset({'boring'}),1
+0.03719418615148506,frozenset({'bought'}),1
+0.01065270380066805,frozenset({'boy'}),1
+0.03385393156991965,frozenset({'buy'}),1
+0.010562426649814933,frozenset({'buying'}),1
+0.016881827209533268,frozenset({'came'}),1
+0.036833077548072586,frozenset({'cant'}),1
+0.010562426649814933,frozenset({'certainly'}),1
+0.011104089554933647,frozenset({'change'}),1
+0.01643044145526767,frozenset({'chapter'}),1
+0.028798411122144985,frozenset({'character'}),1
+0.07122867202311095,frozenset({'characters'}),1
+0.017152658662092625,frozenset({'child'}),1
+0.02256928771327977,frozenset({'children'}),1
+0.010111040895549336,frozenset({'christmas'}),1
+0.01661099575697391,frozenset({'class'}),1
+0.020131804640245554,frozenset({'classic'}),1
+0.014444344136499051,frozenset({'clear'}),1
+0.015979055701002075,frozenset({'collection'}),1
+0.02717342240678884,frozenset({'come'}),1
+0.014354066985645933,frozenset({'comes'}),1
+0.012187415365171076,frozenset({'complete'}),1
+0.016972104360386386,frozenset({'condition'}),1
+0.021756793355601697,frozenset({'copy'}),1
+0.0605759682224429,frozenset({'could'}),1
+0.028347025367879388,frozenset({'couldnt'}),1
+0.011104089554933647,frozenset({'couple'}),1
+0.01254852396858355,frozenset({'course'}),1
+0.013812404080527219,frozenset({'cover'}),1
+0.01263880111943667,frozenset({'covers'}),1
+0.012909632571996028,frozenset({'daughter'}),1
+0.025187325088020223,frozenset({'day'}),1
+0.015347115645030242,frozenset({'days'}),1
+0.024013722126929673,frozenset({'definitely'}),1
+0.010472149498961813,frozenset({'depth'}),1
+0.015256838494177125,frozenset({'detail'}),1
+0.01074298095152117,frozenset({'detailed'}),1
+0.012819355421142908,frozenset({'details'}),1
+0.012277692516024194,frozenset({'development'}),1
+0.03593030603954139,frozenset({'didnt'}),1
+0.03015256838494177,frozenset({'different'}),1
+0.012999909722849147,frozenset({'difficult'}),1
+0.01769432156721134,frozenset({'disappointed'}),1
+0.019951250338539315,frozenset({'doesnt'}),1
+0.021034576148776744,frozenset({'done'}),1
+0.06039541392073666,frozenset({'dont'}),1
+0.05091631308115916,frozenset({'easy'}),1
+0.014805452739911528,frozenset({'edition'}),1
+0.013270741175408505,frozenset({'else'}),1
+0.03593030603954139,frozenset({'end'}),1
+0.017784598718064457,frozenset({'ending'}),1
+0.012458246817730433,frozenset({'english'}),1
+0.03240949715626975,frozenset({'enjoy'}),1
+0.014805452739911528,frozenset({'enjoyable'}),1
+0.04983298727092173,frozenset({'enjoyed'}),1
+0.02428455357948903,frozenset({'enough'}),1
+0.016069332851855196,frozenset({'entertaining'}),1
+0.023652613523517198,frozenset({'especially'}),1
+0.012367969666877313,frozenset({'etc'}),1
+0.06409677710571454,frozenset({'even'}),1
+0.05181908458969035,frozenset({'ever'}),1
+0.052180193193102825,frozenset({'every'}),1
+0.02446510788119527,frozenset({'everyone'}),1
+0.02247901056242665,frozenset({'everything'}),1
+0.013451295477114742,frozenset({'examples'}),1
+0.05461767626613704,frozenset({'excellent'}),1
+0.013541572627967862,frozenset({'exciting'}),1
+0.015437392795883362,frozenset({'experience'}),1
+0.01263880111943667,frozenset({'extremely'}),1
+0.014083235533086576,frozenset({'fact'}),1
+0.0274442538593482,frozenset({'family'}),1
+0.023020673467545365,frozenset({'fan'}),1
+0.012187415365171076,frozenset({'fantastic'}),1
+0.026270650898257652,frozenset({'far'}),1
+0.011194366705786765,frozenset({'fascinating'}),1
+0.01173602961090548,frozenset({'fast'}),1
+0.030965062742619842,frozenset({'favorite'}),1
+0.028527579669585627,frozenset({'feel'}),1
+0.016069332851855196,frozenset({'felt'}),1
+0.01652071860612079,frozenset({'fiction'}),1
+0.05497878486954952,frozenset({'find'}),1
+0.01065270380066805,frozenset({'finish'}),1
+0.018055430170623814,frozenset({'finished'}),1
+0.08964521079714724,frozenset({'first'}),1
+0.01652071860612079,frozenset({'follow'}),1
+0.014263789834792814,frozenset({'forward'}),1
+0.06364539135144895,frozenset({'found'}),1
+0.01462489843820529,frozenset({'friend'}),1
+0.021124853299629865,frozenset({'friends'}),1
+0.023291504920104723,frozenset({'full'}),1
+0.029701182630676178,frozenset({'fun'}),1
+0.020763744696217386,frozenset({'funny'}),1
+0.01074298095152117,frozenset({'future'}),1
+0.01832626162318317,frozenset({'gave'}),1
+0.08161054437121965,frozenset({'get'}),1
+0.012458246817730433,frozenset({'gets'}),1
+0.0137221269296741,frozenset({'getting'}),1
+0.016340164304414553,frozenset({'gift'}),1
+0.010111040895549336,frozenset({'girl'}),1
+0.03611086034124763,frozenset({'give'}),1
+0.015076284192470885,frozenset({'given'}),1
+0.022840119165839126,frozenset({'gives'}),1
+0.012006861063464836,frozenset({'glad'}),1
+0.016159610002708314,frozenset({'god'}),1
+0.011555475309199242,frozenset({'goes'}),1
+0.03231922000541663,frozenset({'going'}),1
+0.15491559086395235,frozenset({'good'}),1
+0.037465017604044415,frozenset({'got'}),1
+0.17450573259907917,frozenset({'great'}),1
+0.016972104360386386,frozenset({'guide'}),1
+0.010472149498961813,frozenset({'half'}),1
+0.010291595197255575,frozenset({'happen'}),1
+0.01263880111943667,frozenset({'happy'}),1
+0.028347025367879388,frozenset({'hard'}),1
+0.016249887153561432,frozenset({'heart'}),1
+0.028708133971291867,frozenset({'help'}),1
+0.013090186873702265,frozenset({'helped'}),1
+0.019951250338539315,frozenset({'helpful'}),1
+0.018235984472330054,frozenset({'high'}),1
+0.04865938430983118,frozenset({'highly'}),1
+0.014083235533086576,frozenset({'historical'}),1
+0.036833077548072586,frozenset({'history'}),1
+0.01462489843820529,frozenset({'home'}),1
+0.018777647377448768,frozenset({'hope'}),1
+0.031867834251151035,frozenset({'however'}),1
+0.014534621287352171,frozenset({'human'}),1
+0.013090186873702265,frozenset({'humor'}),1
+0.010291595197255575,frozenset({'idea'}),1
+0.015166561343324005,frozenset({'ideas'}),1
+0.013451295477114742,frozenset({'illustrations'}),1
+0.014444344136499051,frozenset({'important'}),1
+0.04342330956035027,frozenset({'information'}),1
+0.014534621287352171,frozenset({'informative'}),1
+0.01254852396858355,frozenset({'insight'}),1
+0.010923535253227408,frozenset({'instead'}),1
+0.01272907827028979,frozenset({'interest'}),1
+0.026451205199963888,frozenset({'interested'}),1
+0.05570100207637447,frozenset({'interesting'}),1
+0.015076284192470885,frozenset({'isnt'}),1
+0.05181908458969035,frozenset({'ive'}),1
+0.020854021847070508,frozenset({'job'}),1
+0.01074298095152117,frozenset({'john'}),1
+0.0293400740272637,frozenset({'keep'}),1
+0.014354066985645933,frozenset({'kept'}),1
+0.015979055701002075,frozenset({'kids'}),1
+0.015166561343324005,frozenset({'kind'}),1
+0.012097138214317956,frozenset({'knew'}),1
+0.059312088110499234,frozenset({'know'}),1
+0.01074298095152117,frozenset({'knowledge'}),1
+0.01643044145526767,frozenset({'language'}),1
+0.025006770786313984,frozenset({'last'}),1
+0.026270650898257652,frozenset({'learn'}),1
+0.011194366705786765,frozenset({'learned'}),1
+0.013451295477114742,frozenset({'learning'}),1
+0.013090186873702265,frozenset({'least'}),1
+0.014895729890764648,frozenset({'left'}),1
+0.01254852396858355,frozenset({'less'}),1
+0.011826306761758599,frozenset({'let'}),1
+0.01733321296379886,frozenset({'library'}),1
+0.08242303872889771,frozenset({'life'}),1
+0.01065270380066805,frozenset({'light'}),1
+0.1344226776202943,frozenset({'like'}),1
+0.02247901056242665,frozenset({'liked'}),1
+0.013180464024555385,frozenset({'line'}),1
+0.05434684481357768,frozenset({'little'}),1
+0.012097138214317956,frozenset({'live'}),1
+0.016249887153561432,frozenset({'lives'}),1
+0.030062291234088653,frozenset({'long'}),1
+0.03412476302247901,frozenset({'look'}),1
+0.03529836598356956,frozenset({'looking'}),1
+0.011013812404080527,frozenset({'lost'}),1
+0.04188859799584725,frozenset({'lot'}),1
+0.013180464024555385,frozenset({'lots'}),1
+0.09777015437392796,frozenset({'love'}),1
+0.04784688995215311,frozenset({'loved'}),1
+0.012909632571996028,frozenset({'loves'}),1
+0.0407149950347567,frozenset({'made'}),1
+0.014805452739911528,frozenset({'main'}),1
+0.051096867382865396,frozenset({'make'}),1
+0.03890945201769432,frozenset({'makes'}),1
+0.013992958382233456,frozenset({'making'}),1
+0.02238873341157353,frozenset({'man'}),1
+0.08179109867292589,frozenset({'many'}),1
+0.010201318046402456,frozenset({'material'}),1
+0.02428455357948903,frozenset({'may'}),1
+0.014805452739911528,frozenset({'might'}),1
+0.01868737022659565,frozenset({'mind'}),1
+0.021395684752189222,frozenset({'money'}),1
+0.011013812404080527,frozenset({'mother'}),1
+0.018416538774036293,frozenset({'movie'}),1
+0.08630495621558183,frozenset({'much'}),1
+0.055881556378080705,frozenset({'must'}),1
+0.015076284192470885,frozenset({'mystery'}),1
+0.03231922000541663,frozenset({'need'}),1
+0.013361018326261622,frozenset({'needed'}),1
+0.011013812404080527,frozenset({'needs'}),1
+0.04983298727092173,frozenset({'never'}),1
+0.06256206554121152,frozenset({'new'}),1
+0.03033312268664801,frozenset({'next'}),1
+0.01643044145526767,frozenset({'nice'}),1
+0.010020763744696218,frozenset({'night'}),1
+0.020131804640245554,frozenset({'nothing'}),1
+0.04224970659925973,frozenset({'novel'}),1
+0.016069332851855196,frozenset({'novels'}),1
+0.015979055701002075,frozenset({'often'}),1
+0.03999277782793175,frozenset({'old'}),1
+0.20673467545364269,frozenset({'one'}),1
+0.010201318046402456,frozenset({'ones'}),1
+0.012819355421142908,frozenset({'order'}),1
+0.011916583912611719,frozenset({'original'}),1
+0.020312358941951793,frozenset({'others'}),1
+0.01272907827028979,frozenset({'overall'}),1
+0.025006770786313984,frozenset({'page'}),1
+0.029610905479823056,frozenset({'pages'}),1
+0.02148596190304234,frozenset({'part'}),1
+0.010381872348108693,frozenset({'parts'}),1
+0.01263880111943667,frozenset({'past'}),1
+0.05877042520538052,frozenset({'people'}),1
+0.01850681592488941,frozenset({'perfect'}),1
+0.018416538774036293,frozenset({'person'}),1
+0.015166561343324005,frozenset({'personal'}),1
+0.010020763744696218,frozenset({'perspective'}),1
+0.015979055701002075,frozenset({'pictures'}),1
+0.01670127290782703,frozenset({'place'}),1
+0.028527579669585627,frozenset({'plot'}),1
+0.019048478830008125,frozenset({'point'}),1
+0.015708224248442718,frozenset({'pretty'}),1
+0.015708224248442718,frozenset({'price'}),1
+0.018055430170623814,frozenset({'probably'}),1
+0.010020763744696218,frozenset({'problem'}),1
+0.013270741175408505,frozenset({'problems'}),1
+0.013902681231380337,frozenset({'provides'}),1
+0.012819355421142908,frozenset({'purchase'}),1
+0.0156179470975896,frozenset({'purchased'}),1
+0.060034305317324184,frozenset({'put'}),1
+0.011104089554933647,frozenset({'questions'}),1
+0.014805452739911528,frozenset({'quick'}),1
+0.02446510788119527,frozenset({'quite'}),1
+0.011826306761758599,frozenset({'rather'}),1
+0.3473864764828022,frozenset({'read'}),1
+0.03574975173783516,frozenset({'reader'}),1
+0.018416538774036293,frozenset({'readers'}),1
+0.12701995125033855,frozenset({'reading'}),1
+0.03593030603954139,frozenset({'real'}),1
+0.10291595197255575,frozenset({'really'}),1
+0.01065270380066805,frozenset({'received'}),1
+0.011826306761758599,frozenset({'recipes'}),1
+0.08955493364629412,frozenset({'recommend'}),1
+0.023652613523517198,frozenset({'recommended'}),1
+0.01787487586891758,frozenset({'reference'}),1
+0.010562426649814933,frozenset({'rest'}),1
+0.016881827209533268,frozenset({'review'}),1
+0.013451295477114742,frozenset({'reviews'}),1
+0.024916493635460866,frozenset({'right'}),1
+0.013090186873702265,frozenset({'romance'}),1
+0.01769432156721134,frozenset({'said'}),1
+0.034485871625891486,frozenset({'say'}),1
+0.022117901959014172,frozenset({'school'}),1
+0.01787487586891758,frozenset({'second'}),1
+0.0430622009569378,frozenset({'see'}),1
+0.011194366705786765,frozenset({'seem'}),1
+0.01462489843820529,frozenset({'seems'}),1
+0.012187415365171076,frozenset({'seen'}),1
+0.01462489843820529,frozenset({'sense'}),1
+0.050374650176040446,frozenset({'series'}),1
+0.01263880111943667,frozenset({'set'}),1
+0.01832626162318317,frozenset({'several'}),1
+0.01977069603683308,frozenset({'short'}),1
+0.015347115645030242,frozenset({'shows'}),1
+0.018235984472330054,frozenset({'simple'}),1
+0.012819355421142908,frozenset({'simply'}),1
+0.022208179109867294,frozenset({'since'}),1
+0.013812404080527219,frozenset({'small'}),1
+0.01832626162318317,frozenset({'someone'}),1
+0.029159519725557463,frozenset({'something'}),1
+0.011645752460052361,frozenset({'sometimes'}),1
+0.011826306761758599,frozenset({'son'}),1
+0.015166561343324005,frozenset({'stars'}),1
+0.021576239053895458,frozenset({'start'}),1
+0.019860973187686197,frozenset({'started'}),1
+0.05001354157262797,frozenset({'still'}),1
+0.036020583190394515,frozenset({'stories'}),1
+0.1325268574523788,frozenset({'story'}),1
+0.011374921007493004,frozenset({'students'}),1
+0.012819355421142908,frozenset({'study'}),1
+0.011645752460052361,frozenset({'stuff'}),1
+0.02238873341157353,frozenset({'style'}),1
+0.014354066985645933,frozenset({'subject'}),1
+0.0194095874334206,frozenset({'sure'}),1
+0.026090096596551413,frozenset({'take'}),1
+0.01832626162318317,frozenset({'takes'}),1
+0.012006861063464836,frozenset({'tale'}),1
+0.01363184977882098,frozenset({'tell'}),1
+0.012006861063464836,frozenset({'tells'}),1
+0.016972104360386386,frozenset({'text'}),1
+0.012819355421142908,frozenset({'thank'}),1
+0.014263789834792814,frozenset({'thats'}),1
+0.021756793355601697,frozenset({'thing'}),1
+0.032499774307122864,frozenset({'things'}),1
+0.060485691071589784,frozenset({'think'}),1
+0.01272907827028979,frozenset({'thinking'}),1
+0.030423399837501128,frozenset({'though'}),1
+0.04369414101290963,frozenset({'thought'}),1
+0.01272907827028979,frozenset({'three'}),1
+0.10219373476573079,frozenset({'time'}),1
+0.036833077548072586,frozenset({'times'}),1
+0.012277692516024194,frozenset({'title'}),1
+0.010923535253227408,frozenset({'today'}),1
+0.01643044145526767,frozenset({'together'}),1
+0.013902681231380337,frozenset({'told'}),1
+0.014263789834792814,frozenset({'took'}),1
+0.02356233637266408,frozenset({'true'}),1
+0.019229033131714365,frozenset({'truly'}),1
+0.012909632571996028,frozenset({'try'}),1
+0.014083235533086576,frozenset({'trying'}),1
+0.0331317143630947,frozenset({'two'}),1
+0.010381872348108693,frozenset({'type'}),1
+0.0350275345310102,frozenset({'understand'}),1
+0.014986007041617767,frozenset({'understanding'}),1
+0.03277060575968222,frozenset({'use'}),1
+0.03222894285456351,frozenset({'used'}),1
+0.016159610002708314,frozenset({'useful'}),1
+0.01471517558905841,frozenset({'using'}),1
+0.013902681231380337,frozenset({'version'}),1
+0.012277692516024194,frozenset({'view'}),1
+0.01977069603683308,frozenset({'wait'}),1
+0.05236074749480906,frozenset({'want'}),1
+0.017242935812945743,frozenset({'wanted'}),1
+0.010381872348108693,frozenset({'wants'}),1
+0.0137221269296741,frozenset({'war'}),1
+0.0137221269296741,frozenset({'wasnt'}),1
+0.06689536878216124,frozenset({'way'}),1
+0.10481177214047124,frozenset({'well'}),1
+0.012187415365171076,frozenset({'went'}),1
+0.020854021847070508,frozenset({'whole'}),1
+0.01868737022659565,frozenset({'wish'}),1
+0.010381872348108693,frozenset({'within'}),1
+0.026090096596551413,frozenset({'without'}),1
+0.012006861063464836,frozenset({'woman'}),1
+0.011645752460052361,frozenset({'women'}),1
+0.05001354157262797,frozenset({'wonderful'}),1
+0.013812404080527219,frozenset({'wont'}),1
+0.010020763744696218,frozenset({'word'}),1
+0.020944298997923626,frozenset({'words'}),1
+0.04712467274532816,frozenset({'work'}),1
+0.01661099575697391,frozenset({'works'}),1
+0.04179832084499413,frozenset({'world'}),1
+0.036020583190394515,frozenset({'worth'}),1
+0.12124221359573892,frozenset({'would'}),1
+0.015527669946736482,frozenset({'write'}),1
+0.017965153019770697,frozenset({'writer'}),1
+0.04396497246546899,frozenset({'writing'}),1
+0.07610363816917938,frozenset({'written'}),1
+0.010472149498961813,frozenset({'wrong'}),1
+0.026812313803376366,frozenset({'year'}),1
+0.05497878486954952,frozenset({'years'}),1
+0.026090096596551413,frozenset({'yet'}),1
+0.014805452739911528,frozenset({'youll'}),1
+0.0232012277692516,frozenset({'young'}),1
+0.015527669946736482,frozenset({'youre'}),1
+0.01363184977882098,"frozenset({'able', 'book'})",2
+0.010562426649814933,"frozenset({'absolutely', 'book'})",2
+0.014895729890764648,"frozenset({'actually', 'book'})",2
+0.014444344136499051,"frozenset({'ago', 'book'})",2
+0.010381872348108693,"frozenset({'ago', 'read'})",2
+0.01462489843820529,"frozenset({'ago', 'years'})",2
+0.01769432156721134,"frozenset({'book', 'almost'})",2
+0.012006861063464836,"frozenset({'along', 'book'})",2
+0.013270741175408505,"frozenset({'already', 'book'})",2
+0.051096867382865396,"frozenset({'also', 'book'})",2
+0.012367969666877313,"frozenset({'books', 'also'})",2
+0.012909632571996028,"frozenset({'good', 'also'})",2
+0.0156179470975896,"frozenset({'also', 'great'})",2
+0.015888778550148957,"frozenset({'one', 'also'})",2
+0.025638710842285816,"frozenset({'read', 'also'})",2
+0.010111040895549336,"frozenset({'story', 'also'})",2
+0.01859709307574253,"frozenset({'book', 'although'})",2
+0.022027624808161055,"frozenset({'always', 'book'})",2
+0.01254852396858355,"frozenset({'always', 'read'})",2
+0.017152658662092625,"frozenset({'amazing', 'book'})",2
+0.024103999277782794,"frozenset({'book', 'another'})",2
+0.010020763744696218,"frozenset({'one', 'another'})",2
+0.014083235533086576,"frozenset({'read', 'another'})",2
+0.04757605849959375,"frozenset({'book', 'anyone'})",2
+0.01363184977882098,"frozenset({'great', 'anyone'})",2
+0.012458246817730433,"frozenset({'one', 'anyone'})",2
+0.024555385032048387,"frozenset({'read', 'anyone'})",2
+0.022208179109867294,"frozenset({'recommend', 'anyone'})",2
+0.017784598718064457,"frozenset({'would', 'anyone'})",2
+0.011645752460052361,"frozenset({'book', 'anything'})",2
+0.013180464024555385,"frozenset({'around', 'book'})",2
+0.04748578134874063,"frozenset({'author', 'book'})",2
+0.013361018326261622,"frozenset({'books', 'author'})",2
+0.011374921007493004,"frozenset({'author', 'great'})",2
+0.01579850139929584,"frozenset({'author', 'one'})",2
+0.026722036652523245,"frozenset({'author', 'read'})",2
+0.010381872348108693,"frozenset({'author', 'reading'})",2
+0.011555475309199242,"frozenset({'author', 'story'})",2
+0.01787487586891758,"frozenset({'authors', 'book'})",2
+0.013992958382233456,"frozenset({'away', 'book'})",2
+0.024103999277782794,"frozenset({'back', 'book'})",2
+0.013270741175408505,"frozenset({'back', 'read'})",2
+0.012458246817730433,"frozenset({'bad', 'book'})",2
+0.013270741175408505,"frozenset({'beautiful', 'book'})",2
+0.012999909722849147,"frozenset({'believe', 'book'})",2
+0.057145436490024376,"frozenset({'best', 'book'})",2
+0.023833167825223437,"frozenset({'books', 'best'})",2
+0.019860973187686197,"frozenset({'ever', 'best'})",2
+0.012006861063464836,"frozenset({'good', 'best'})",2
+0.012458246817730433,"frozenset({'best', 'great'})",2
+0.01462489843820529,"frozenset({'ive', 'best'})",2
+0.03412476302247901,"frozenset({'one', 'best'})",2
+0.0388191748668412,"frozenset({'best', 'read'})",2
+0.010111040895549336,"frozenset({'story', 'best'})",2
+0.04197887514670037,"frozenset({'better', 'book'})",2
+0.01263880111943667,"frozenset({'books', 'better'})",2
+0.011826306761758599,"frozenset({'good', 'better'})",2
+0.010381872348108693,"frozenset({'like', 'better'})",2
+0.012006861063464836,"frozenset({'much', 'better'})",2
+0.014444344136499051,"frozenset({'one', 'better'})",2
+0.021124853299629865,"frozenset({'read', 'better'})",2
+0.012097138214317956,"frozenset({'better', 'would'})",2
+0.011826306761758599,"frozenset({'big', 'book'})",2
+0.016881827209533268,"frozenset({'bit', 'book'})",2
+0.09695766001624989,"frozenset({'books', 'book'})",2
+0.01263880111943667,"frozenset({'boring', 'book'})",2
+0.03168727994944479,"frozenset({'bought', 'book'})",2
+0.026992868105082602,"frozenset({'buy', 'book'})",2
+0.012458246817730433,"frozenset({'came', 'book'})",2
+0.026270650898257652,"frozenset({'cant', 'book'})",2
+0.012909632571996028,"frozenset({'book', 'chapter'})",2
+0.019680418885979958,"frozenset({'character', 'book'})",2
+0.048027444253859346,"frozenset({'characters', 'book'})",2
+0.013090186873702265,"frozenset({'child', 'book'})",2
+0.01769432156721134,"frozenset({'children', 'book'})",2
+0.013361018326261622,"frozenset({'class', 'book'})",2
+0.012097138214317956,"frozenset({'classic', 'book'})",2
+0.010923535253227408,"frozenset({'clear', 'book'})",2
+0.018416538774036293,"frozenset({'come', 'book'})",2
+0.010381872348108693,"frozenset({'comes', 'book'})",2
+0.01363184977882098,"frozenset({'condition', 'book'})",2
+0.01670127290782703,"frozenset({'copy', 'book'})",2
+0.04558996118082513,"frozenset({'book', 'could'})",2
+0.021576239053895458,"frozenset({'couldnt', 'book'})",2
+0.010381872348108693,"frozenset({'cover', 'book'})",2
+0.010923535253227408,"frozenset({'covers', 'book'})",2
+0.017423490114651982,"frozenset({'day', 'book'})",2
+0.011284643856639884,"frozenset({'days', 'book'})",2
+0.01868737022659565,"frozenset({'definitely', 'book'})",2
+0.011194366705786765,"frozenset({'book', 'detail'})",2
+0.028798411122144985,"frozenset({'didnt', 'book'})",2
+0.023291504920104723,"frozenset({'different', 'book'})",2
+0.012909632571996028,"frozenset({'disappointed', 'book'})",2
+0.01254852396858355,"frozenset({'doesnt', 'book'})",2
+0.015708224248442718,"frozenset({'done', 'book'})",2
+0.04486774397400018,"frozenset({'dont', 'book'})",2
+0.037465017604044415,"frozenset({'easy', 'book'})",2
+0.010020763744696218,"frozenset({'else', 'book'})",2
+0.02527760223887334,"frozenset({'end', 'book'})",2
+0.011284643856639884,"frozenset({'ending', 'book'})",2
+0.02338178207095784,"frozenset({'enjoy', 'book'})",2
+0.010381872348108693,"frozenset({'book', 'enjoyable'})",2
+0.037826126207456894,"frozenset({'enjoyed', 'book'})",2
+0.01760404441635822,"frozenset({'enough', 'book'})",2
+0.010291595197255575,"frozenset({'entertaining', 'book'})",2
+0.01769432156721134,"frozenset({'book', 'especially'})",2
+0.047214949896181274,"frozenset({'even', 'book'})",2
+0.039812223526225515,"frozenset({'ever', 'book'})",2
+0.040444163582197344,"frozenset({'every', 'book'})",2
+0.0194095874334206,"frozenset({'everyone', 'book'})",2
+0.01769432156721134,"frozenset({'everything', 'book'})",2
+0.010562426649814933,"frozenset({'examples', 'book'})",2
+0.04215942944840661,"frozenset({'book', 'excellent'})",2
+0.01074298095152117,"frozenset({'experience', 'book'})",2
+0.011194366705786765,"frozenset({'fact', 'book'})",2
+0.019319310282567483,"frozenset({'family', 'book'})",2
+0.017152658662092625,"frozenset({'book', 'fan'})",2
+0.019860973187686197,"frozenset({'far', 'book'})",2
+0.021124853299629865,"frozenset({'favorite', 'book'})",2
+0.02058319039451115,"frozenset({'feel', 'book'})",2
+0.012999909722849147,"frozenset({'book', 'felt'})",2
+0.01065270380066805,"frozenset({'fiction', 'book'})",2
+0.03890945201769432,"frozenset({'find', 'book'})",2
+0.014805452739911528,"frozenset({'finished', 'book'})",2
+0.06942312900604856,"frozenset({'first', 'book'})",2
+0.012909632571996028,"frozenset({'book', 'follow'})",2
+0.010111040895549336,"frozenset({'book', 'forward'})",2
+0.04856910715897806,"frozenset({'found', 'book'})",2
+0.011555475309199242,"frozenset({'friend', 'book'})",2
+0.015708224248442718,"frozenset({'friends', 'book'})",2
+0.016249887153561432,"frozenset({'full', 'book'})",2
+0.020944298997923626,"frozenset({'fun', 'book'})",2
+0.0156179470975896,"frozenset({'funny', 'book'})",2
+0.014173512683939694,"frozenset({'gave', 'book'})",2
+0.05858987090367428,"frozenset({'book', 'get'})",2
+0.010111040895549336,"frozenset({'getting', 'book'})",2
+0.012819355421142908,"frozenset({'gift', 'book'})",2
+0.026631759501670127,"frozenset({'give', 'book'})",2
+0.011284643856639884,"frozenset({'given', 'book'})",2
+0.01832626162318317,"frozenset({'gives', 'book'})",2
+0.011194366705786765,"frozenset({'god', 'book'})",2
+0.024735939333754627,"frozenset({'going', 'book'})",2
+0.11113117270018959,"frozenset({'good', 'book'})",2
+0.029069242574704342,"frozenset({'book', 'got'})",2
+0.13108242303872888,"frozenset({'book', 'great'})",2
+0.010923535253227408,"frozenset({'guide', 'book'})",2
+0.02058319039451115,"frozenset({'hard', 'book'})",2
+0.010562426649814933,"frozenset({'heart', 'book'})",2
+0.02247901056242665,"frozenset({'help', 'book'})",2
+0.01083325810237429,"frozenset({'helped', 'book'})",2
+0.015076284192470885,"frozenset({'helpful', 'book'})",2
+0.01254852396858355,"frozenset({'high', 'book'})",2
+0.03728446330233818,"frozenset({'highly', 'book'})",2
+0.024194276428635912,"frozenset({'history', 'book'})",2
+0.011284643856639884,"frozenset({'home', 'book'})",2
+0.01272907827028979,"frozenset({'book', 'hope'})",2
+0.02545815654057958,"frozenset({'however', 'book'})",2
+0.011104089554933647,"frozenset({'ideas', 'book'})",2
+0.011013812404080527,"frozenset({'illustrations', 'book'})",2
+0.010923535253227408,"frozenset({'important', 'book'})",2
+0.034937257380157086,"frozenset({'information', 'book'})",2
+0.011284643856639884,"frozenset({'informative', 'book'})",2
+0.021395684752189222,"frozenset({'interested', 'book'})",2
+0.03909000631940056,"frozenset({'book', 'interesting'})",2
+0.011465198158346122,"frozenset({'isnt', 'book'})",2
+0.03773584905660377,"frozenset({'ive', 'book'})",2
+0.015256838494177125,"frozenset({'job', 'book'})",2
+0.020763744696217386,"frozenset({'book', 'keep'})",2
+0.010923535253227408,"frozenset({'kept', 'book'})",2
+0.01173602961090548,"frozenset({'kids', 'book'})",2
+0.011465198158346122,"frozenset({'book', 'kind'})",2
+0.044687189672293945,"frozenset({'book', 'know'})",2
+0.011104089554933647,"frozenset({'language', 'book'})",2
+0.018416538774036293,"frozenset({'last', 'book'})",2
+0.021124853299629865,"frozenset({'learn', 'book'})",2
+0.010201318046402456,"frozenset({'book', 'learning'})",2
+0.011374921007493004,"frozenset({'book', 'left'})",2
+0.013090186873702265,"frozenset({'library', 'book'})",2
+0.05741626794258373,"frozenset({'book', 'life'})",2
+0.1017423490114652,"frozenset({'like', 'book'})",2
+0.016972104360386386,"frozenset({'liked', 'book'})",2
+0.038638620565134965,"frozenset({'little', 'book'})",2
+0.01074298095152117,"frozenset({'lives', 'book'})",2
+0.02049291324365803,"frozenset({'long', 'book'})",2
+0.02338178207095784,"frozenset({'look', 'book'})",2
+0.027624808161054438,"frozenset({'looking', 'book'})",2
+0.03222894285456351,"frozenset({'book', 'lot'})",2
+0.06897174325178297,"frozenset({'love', 'book'})",2
+0.037826126207456894,"frozenset({'loved', 'book'})",2
+0.03033312268664801,"frozenset({'made', 'book'})",2
+0.010111040895549336,"frozenset({'book', 'main'})",2
+0.036833077548072586,"frozenset({'make', 'book'})",2
+0.029159519725557463,"frozenset({'makes', 'book'})",2
+0.010923535253227408,"frozenset({'making', 'book'})",2
+0.012819355421142908,"frozenset({'man', 'book'})",2
+0.060034305317324184,"frozenset({'many', 'book'})",2
+0.01769432156721134,"frozenset({'book', 'may'})",2
+0.011555475309199242,"frozenset({'might', 'book'})",2
+0.013541572627967862,"frozenset({'mind', 'book'})",2
+0.01661099575697391,"frozenset({'money', 'book'})",2
+0.014895729890764648,"frozenset({'movie', 'book'})",2
+0.06418705425656766,"frozenset({'much', 'book'})",2
+0.04206915229755349,"frozenset({'must', 'book'})",2
+0.025006770786313984,"frozenset({'need', 'book'})",2
+0.03656224609551323,"frozenset({'book', 'never'})",2
+0.044596912521440824,"frozenset({'new', 'book'})",2
+0.023110950618398483,"frozenset({'next', 'book'})",2
+0.01173602961090548,"frozenset({'nice', 'book'})",2
+0.0137221269296741,"frozenset({'nothing', 'book'})",2
+0.021215130450482983,"frozenset({'novel', 'book'})",2
+0.01173602961090548,"frozenset({'often', 'book'})",2
+0.027083145255935723,"frozenset({'old', 'book'})",2
+0.13839487225783154,"frozenset({'one', 'book'})",2
+0.014173512683939694,"frozenset({'others', 'book'})",2
+0.017965153019770697,"frozenset({'page', 'book'})",2
+0.022298456260720412,"frozenset({'pages', 'book'})",2
+0.015979055701002075,"frozenset({'part', 'book'})",2
+0.0411663807890223,"frozenset({'people', 'book'})",2
+0.013361018326261622,"frozenset({'perfect', 'book'})",2
+0.0137221269296741,"frozenset({'person', 'book'})",2
+0.010381872348108693,"frozenset({'personal', 'book'})",2
+0.012999909722849147,"frozenset({'book', 'pictures'})",2
+0.011013812404080527,"frozenset({'place', 'book'})",2
+0.01859709307574253,"frozenset({'plot', 'book'})",2
+0.01471517558905841,"frozenset({'point', 'book'})",2
+0.011374921007493004,"frozenset({'book', 'pretty'})",2
+0.012006861063464836,"frozenset({'price', 'book'})",2
+0.013451295477114742,"frozenset({'probably', 'book'})",2
+0.010020763744696218,"frozenset({'provides', 'book'})",2
+0.011374921007493004,"frozenset({'purchased', 'book'})",2
+0.04558996118082513,"frozenset({'put', 'book'})",2
+0.01579850139929584,"frozenset({'quite', 'book'})",2
+0.2579218199873612,"frozenset({'read', 'book'})",2
+0.024735939333754627,"frozenset({'reader', 'book'})",2
+0.01263880111943667,"frozenset({'readers', 'book'})",2
+0.09488128554662816,"frozenset({'book', 'reading'})",2
+0.026451205199963888,"frozenset({'real', 'book'})",2
+0.0766453010742981,"frozenset({'really', 'book'})",2
+0.07131894917396407,"frozenset({'recommend', 'book'})",2
+0.016881827209533268,"frozenset({'recommended', 'book'})",2
+0.01272907827028979,"frozenset({'reference', 'book'})",2
+0.012367969666877313,"frozenset({'review', 'book'})",2
+0.018777647377448768,"frozenset({'right', 'book'})",2
+0.012999909722849147,"frozenset({'said', 'book'})",2
+0.026090096596551413,"frozenset({'say', 'book'})",2
+0.016069332851855196,"frozenset({'book', 'school'})",2
+0.013992958382233456,"frozenset({'book', 'second'})",2
+0.03150672564773856,"frozenset({'see', 'book'})",2
+0.031777557100297914,"frozenset({'series', 'book'})",2
+0.012458246817730433,"frozenset({'several', 'book'})",2
+0.01363184977882098,"frozenset({'book', 'short'})",2
+0.01083325810237429,"frozenset({'shows', 'book'})",2
+0.012999909722849147,"frozenset({'simple', 'book'})",2
+0.01643044145526767,"frozenset({'since', 'book'})",2
+0.010111040895549336,"frozenset({'small', 'book'})",2
+0.013090186873702265,"frozenset({'someone', 'book'})",2
+0.02166651620474858,"frozenset({'something', 'book'})",2
+0.011555475309199242,"frozenset({'stars', 'book'})",2
+0.015527669946736482,"frozenset({'book', 'start'})",2
+0.015527669946736482,"frozenset({'started', 'book'})",2
+0.03412476302247901,"frozenset({'still', 'book'})",2
+0.023110950618398483,"frozenset({'book', 'stories'})",2
+0.08413830459510697,"frozenset({'story', 'book'})",2
+0.01670127290782703,"frozenset({'style', 'book'})",2
+0.011916583912611719,"frozenset({'subject', 'book'})",2
+0.013902681231380337,"frozenset({'sure', 'book'})",2
+0.0194095874334206,"frozenset({'take', 'book'})",2
+0.012187415365171076,"frozenset({'takes', 'book'})",2
+0.010381872348108693,"frozenset({'tell', 'book'})",2
+0.010291595197255575,"frozenset({'thats', 'book'})",2
+0.015979055701002075,"frozenset({'book', 'thing'})",2
+0.023652613523517198,"frozenset({'things', 'book'})",2
+0.047214949896181274,"frozenset({'think', 'book'})",2
+0.021395684752189222,"frozenset({'book', 'though'})",2
+0.03412476302247901,"frozenset({'thought', 'book'})",2
+0.07483975805723571,"frozenset({'time', 'book'})",2
+0.027895639613613795,"frozenset({'book', 'times'})",2
+0.011013812404080527,"frozenset({'together', 'book'})",2
+0.011645752460052361,"frozenset({'took', 'book'})",2
+0.017062381511239504,"frozenset({'true', 'book'})",2
+0.015437392795883362,"frozenset({'truly', 'book'})",2
+0.010111040895549336,"frozenset({'trying', 'book'})",2
+0.023652613523517198,"frozenset({'two', 'book'})",2
+0.028978965423851224,"frozenset({'understand', 'book'})",2
+0.011284643856639884,"frozenset({'understanding', 'book'})",2
+0.024013722126929673,"frozenset({'use', 'book'})",2
+0.024555385032048387,"frozenset({'used', 'book'})",2
+0.011465198158346122,"frozenset({'useful', 'book'})",2
+0.011284643856639884,"frozenset({'book', 'using'})",2
+0.0156179470975896,"frozenset({'wait', 'book'})",2
+0.04134693509072854,"frozenset({'want', 'book'})",2
+0.014173512683939694,"frozenset({'wanted', 'book'})",2
+0.011374921007493004,"frozenset({'wasnt', 'book'})",2
+0.0487496614606843,"frozenset({'way', 'book'})",2
+0.0761939153200325,"frozenset({'book', 'well'})",2
+0.016340164304414553,"frozenset({'whole', 'book'})",2
+0.01254852396858355,"frozenset({'wish', 'book'})",2
+0.019048478830008125,"frozenset({'book', 'without'})",2
+0.03656224609551323,"frozenset({'wonderful', 'book'})",2
+0.011194366705786765,"frozenset({'book', 'wont'})",2
+0.015347115645030242,"frozenset({'words', 'book'})",2
+0.03051367698835425,"frozenset({'work', 'book'})",2
+0.01065270380066805,"frozenset({'works', 'book'})",2
+0.028527579669585627,"frozenset({'book', 'world'})",2
+0.02618037374740453,"frozenset({'worth', 'book'})",2
+0.0928049110770064,"frozenset({'book', 'would'})",2
+0.011374921007493004,"frozenset({'write', 'book'})",2
+0.010381872348108693,"frozenset({'writer', 'book'})",2
+0.03240949715626975,"frozenset({'writing', 'book'})",2
+0.05615238783064006,"frozenset({'written', 'book'})",2
+0.019138755980861243,"frozenset({'book', 'year'})",2
+0.03945111492281304,"frozenset({'years', 'book'})",2
+0.018235984472330054,"frozenset({'book', 'yet'})",2
+0.010923535253227408,"frozenset({'youll', 'book'})",2
+0.014173512683939694,"frozenset({'young', 'book'})",2
+0.011916583912611719,"frozenset({'youre', 'book'})",2
+0.016249887153561432,"frozenset({'characters', 'books'})",2
+0.010111040895549336,"frozenset({'books', 'could'})",2
+0.01173602961090548,"frozenset({'dont', 'books'})",2
+0.011104089554933647,"frozenset({'books', 'enjoyed'})",2
+0.011194366705786765,"frozenset({'books', 'even'})",2
+0.014444344136499051,"frozenset({'books', 'ever'})",2
+0.01074298095152117,"frozenset({'find', 'books'})",2
+0.017784598718064457,"frozenset({'books', 'first'})",2
+0.011916583912611719,"frozenset({'found', 'books'})",2
+0.015076284192470885,"frozenset({'books', 'get'})",2
+0.02428455357948903,"frozenset({'good', 'books'})",2
+0.025909542294845173,"frozenset({'books', 'great'})",2
+0.016791550058680146,"frozenset({'ive', 'books'})",2
+0.011194366705786765,"frozenset({'books', 'life'})",2
+0.02527760223887334,"frozenset({'books', 'like'})",2
+0.019860973187686197,"frozenset({'books', 'love'})",2
+0.016340164304414553,"frozenset({'books', 'many'})",2
+0.014173512683939694,"frozenset({'much', 'books'})",2
+0.0610273539767085,"frozenset({'books', 'one'})",2
+0.011555475309199242,"frozenset({'books', 'put'})",2
+0.07375643224699828,"frozenset({'books', 'read'})",2
+0.025187325088020223,"frozenset({'books', 'reading'})",2
+0.01832626162318317,"frozenset({'books', 'really'})",2
+0.015347115645030242,"frozenset({'recommend', 'books'})",2
+0.016249887153561432,"frozenset({'series', 'books'})",2
+0.01670127290782703,"frozenset({'books', 'story'})",2
+0.017152658662092625,"frozenset({'books', 'time'})",2
+0.011013812404080527,"frozenset({'books', 'way'})",2
+0.016249887153561432,"frozenset({'books', 'well'})",2
+0.01769432156721134,"frozenset({'books', 'would'})",2
+0.015527669946736482,"frozenset({'books', 'written'})",2
+0.012277692516024194,"frozenset({'bought', 'read'})",2
+0.010381872348108693,"frozenset({'buy', 'read'})",2
+0.019138755980861243,"frozenset({'cant', 'read'})",2
+0.012909632571996028,"frozenset({'wait', 'cant'})",2
+0.011465198158346122,"frozenset({'character', 'read'})",2
+0.011284643856639884,"frozenset({'characters', 'first'})",2
+0.011555475309199242,"frozenset({'characters', 'good'})",2
+0.014354066985645933,"frozenset({'characters', 'great'})",2
+0.012367969666877313,"frozenset({'characters', 'like'})",2
+0.010201318046402456,"frozenset({'characters', 'love'})",2
+0.018958201679155007,"frozenset({'characters', 'one'})",2
+0.03168727994944479,"frozenset({'characters', 'read'})",2
+0.011826306761758599,"frozenset({'characters', 'reading'})",2
+0.010201318046402456,"frozenset({'characters', 'really'})",2
+0.02238873341157353,"frozenset({'characters', 'story'})",2
+0.011104089554933647,"frozenset({'characters', 'well'})",2
+0.01074298095152117,"frozenset({'come', 'read'})",2
+0.01074298095152117,"frozenset({'good', 'could'})",2
+0.011194366705786765,"frozenset({'like', 'could'})",2
+0.015527669946736482,"frozenset({'one', 'could'})",2
+0.010381872348108693,"frozenset({'put', 'could'})",2
+0.023742890674370316,"frozenset({'read', 'could'})",2
+0.010020763744696218,"frozenset({'could', 'would'})",2
+0.014805452739911528,"frozenset({'couldnt', 'put'})",2
+0.015166561343324005,"frozenset({'couldnt', 'read'})",2
+0.010562426649814933,"frozenset({'day', 'read'})",2
+0.010381872348108693,"frozenset({'read', 'definitely'})",2
+0.010020763744696218,"frozenset({'didnt', 'like'})",2
+0.014805452739911528,"frozenset({'didnt', 'read'})",2
+0.010111040895549336,"frozenset({'different', 'read'})",2
+0.011916583912611719,"frozenset({'good', 'dont'})",2
+0.01254852396858355,"frozenset({'dont', 'know'})",2
+0.014805452739911528,"frozenset({'dont', 'like'})",2
+0.01471517558905841,"frozenset({'dont', 'one'})",2
+0.026722036652523245,"frozenset({'dont', 'read'})",2
+0.011013812404080527,"frozenset({'easy', 'great'})",2
+0.02545815654057958,"frozenset({'easy', 'read'})",2
+0.015437392795883362,"frozenset({'end', 'read'})",2
+0.01254852396858355,"frozenset({'enjoy', 'read'})",2
+0.012277692516024194,"frozenset({'one', 'enjoyed'})",2
+0.020763744696217386,"frozenset({'enjoyed', 'read'})",2
+0.013090186873702265,"frozenset({'enjoyed', 'reading'})",2
+0.012999909722849147,"frozenset({'enjoyed', 'really'})",2
+0.011013812404080527,"frozenset({'story', 'enjoyed'})",2
+0.010562426649814933,"frozenset({'even', 'great'})",2
+0.011465198158346122,"frozenset({'like', 'even'})",2
+0.014986007041617767,"frozenset({'one', 'even'})",2
+0.02446510788119527,"frozenset({'read', 'even'})",2
+0.010111040895549336,"frozenset({'even', 'though'})",2
+0.01065270380066805,"frozenset({'even', 'would'})",2
+0.011374921007493004,"frozenset({'ive', 'ever'})",2
+0.022749842014986008,"frozenset({'ever', 'one'})",2
+0.031867834251151035,"frozenset({'ever', 'read'})",2
+0.01670127290782703,"frozenset({'every', 'one'})",2
+0.02238873341157353,"frozenset({'every', 'read'})",2
+0.01272907827028979,"frozenset({'everyone', 'read'})",2
+0.01083325810237429,"frozenset({'one', 'excellent'})",2
+0.016159610002708314,"frozenset({'read', 'excellent'})",2
+0.011555475309199242,"frozenset({'far', 'read'})",2
+0.0137221269296741,"frozenset({'one', 'favorite'})",2
+0.014263789834792814,"frozenset({'favorite', 'read'})",2
+0.01083325810237429,"frozenset({'feel', 'read'})",2
+0.013270741175408505,"frozenset({'find', 'one'})",2
+0.01959014173512684,"frozenset({'find', 'read'})",2
+0.013180464024555385,"frozenset({'good', 'first'})",2
+0.015437392795883362,"frozenset({'first', 'great'})",2
+0.01263880111943667,"frozenset({'first', 'like'})",2
+0.022208179109867294,"frozenset({'one', 'first'})",2
+0.04369414101290963,"frozenset({'first', 'read'})",2
+0.018235984472330054,"frozenset({'first', 'reading'})",2
+0.010381872348108693,"frozenset({'first', 'really'})",2
+0.015437392795883362,"frozenset({'story', 'first'})",2
+0.01769432156721134,"frozenset({'time', 'first'})",2
+0.01065270380066805,"frozenset({'first', 'well'})",2
+0.012999909722849147,"frozenset({'first', 'would'})",2
+0.010472149498961813,"frozenset({'found', 'great'})",2
+0.012277692516024194,"frozenset({'found', 'one'})",2
+0.023652613523517198,"frozenset({'found', 'read'})",2
+0.014895729890764648,"frozenset({'read', 'fun'})",2
+0.014173512683939694,"frozenset({'good', 'get'})",2
+0.013541572627967862,"frozenset({'great', 'get'})",2
+0.014805452739911528,"frozenset({'like', 'get'})",2
+0.020041527489392436,"frozenset({'one', 'get'})",2
+0.032590051457975985,"frozenset({'read', 'get'})",2
+0.010472149498961813,"frozenset({'reading', 'get'})",2
+0.010020763744696218,"frozenset({'really', 'get'})",2
+0.01173602961090548,"frozenset({'story', 'get'})",2
+0.01173602961090548,"frozenset({'time', 'get'})",2
+0.01173602961090548,"frozenset({'would', 'get'})",2
+0.014444344136499051,"frozenset({'give', 'read'})",2
+0.013361018326261622,"frozenset({'going', 'read'})",2
+0.02347205922181096,"frozenset({'good', 'great'})",2
+0.010111040895549336,"frozenset({'good', 'interesting'})",2
+0.011465198158346122,"frozenset({'good', 'know'})",2
+0.026090096596551413,"frozenset({'good', 'like'})",2
+0.011374921007493004,"frozenset({'good', 'little'})",2
+0.011104089554933647,"frozenset({'good', 'love'})",2
+0.01254852396858355,"frozenset({'good', 'many'})",2
+0.015256838494177125,"frozenset({'good', 'much'})",2
+0.028978965423851224,"frozenset({'good', 'one'})",2
+0.057145436490024376,"frozenset({'good', 'read'})",2
+0.019860973187686197,"frozenset({'good', 'reading'})",2
+0.021034576148776744,"frozenset({'good', 'really'})",2
+0.011826306761758599,"frozenset({'recommend', 'good'})",2
+0.020222081791098672,"frozenset({'good', 'story'})",2
+0.013992958382233456,"frozenset({'good', 'think'})",2
+0.015708224248442718,"frozenset({'good', 'time'})",2
+0.016791550058680146,"frozenset({'good', 'well'})",2
+0.021124853299629865,"frozenset({'good', 'would'})",2
+0.012006861063464836,"frozenset({'good', 'written'})",2
+0.013812404080527219,"frozenset({'read', 'got'})",2
+0.014805452739911528,"frozenset({'great', 'life'})",2
+0.0232012277692516,"frozenset({'like', 'great'})",2
+0.010562426649814933,"frozenset({'little', 'great'})",2
+0.020131804640245554,"frozenset({'love', 'great'})",2
+0.010020763744696218,"frozenset({'loved', 'great'})",2
+0.011013812404080527,"frozenset({'make', 'great'})",2
+0.013180464024555385,"frozenset({'many', 'great'})",2
+0.013180464024555385,"frozenset({'much', 'great'})",2
+0.010923535253227408,"frozenset({'new', 'great'})",2
+0.034937257380157086,"frozenset({'one', 'great'})",2
+0.012097138214317956,"frozenset({'put', 'great'})",2
+0.06572176582107069,"frozenset({'read', 'great'})",2
+0.02058319039451115,"frozenset({'great', 'reading'})",2
+0.020854021847070508,"frozenset({'really', 'great'})",2
+0.017784598718064457,"frozenset({'recommend', 'great'})",2
+0.010201318046402456,"frozenset({'series', 'great'})",2
+0.024735939333754627,"frozenset({'story', 'great'})",2
+0.011555475309199242,"frozenset({'think', 'great'})",2
+0.01787487586891758,"frozenset({'time', 'great'})",2
+0.01272907827028979,"frozenset({'way', 'great'})",2
+0.018777647377448768,"frozenset({'well', 'great'})",2
+0.010472149498961813,"frozenset({'wonderful', 'great'})",2
+0.021124853299629865,"frozenset({'great', 'would'})",2
+0.011013812404080527,"frozenset({'written', 'great'})",2
+0.012367969666877313,"frozenset({'hard', 'read'})",2
+0.011284643856639884,"frozenset({'highly', 'one'})",2
+0.017423490114651982,"frozenset({'highly', 'read'})",2
+0.03033312268664801,"frozenset({'recommend', 'highly'})",2
+0.01065270380066805,"frozenset({'recommended', 'highly'})",2
+0.014444344136499051,"frozenset({'history', 'read'})",2
+0.010472149498961813,"frozenset({'however', 'read'})",2
+0.010562426649814933,"frozenset({'read', 'information'})",2
+0.010291595197255575,"frozenset({'one', 'interesting'})",2
+0.02347205922181096,"frozenset({'read', 'interesting'})",2
+0.01074298095152117,"frozenset({'story', 'interesting'})",2
+0.01850681592488941,"frozenset({'ive', 'one'})",2
+0.03430531732418525,"frozenset({'ive', 'read'})",2
+0.012006861063464836,"frozenset({'read', 'keep'})",2
+0.012097138214317956,"frozenset({'like', 'know'})",2
+0.014444344136499051,"frozenset({'one', 'know'})",2
+0.023833167825223437,"frozenset({'read', 'know'})",2
+0.012187415365171076,"frozenset({'last', 'read'})",2
+0.012909632571996028,"frozenset({'like', 'life'})",2
+0.010923535253227408,"frozenset({'love', 'life'})",2
+0.018867924528301886,"frozenset({'one', 'life'})",2
+0.03240949715626975,"frozenset({'read', 'life'})",2
+0.012367969666877313,"frozenset({'reading', 'life'})",2
+0.014805452739911528,"frozenset({'story', 'life'})",2
+0.010020763744696218,"frozenset({'well', 'life'})",2
+0.010562426649814933,"frozenset({'would', 'life'})",2
+0.015347115645030242,"frozenset({'love', 'like'})",2
+0.011645752460052361,"frozenset({'like', 'many'})",2
+0.015256838494177125,"frozenset({'much', 'like'})",2
+0.0293400740272637,"frozenset({'one', 'like'})",2
+0.011465198158346122,"frozenset({'people', 'like'})",2
+0.04965243296921549,"frozenset({'like', 'read'})",2
+0.021937347657307937,"frozenset({'like', 'reading'})",2
+0.021937347657307937,"frozenset({'like', 'really'})",2
+0.012277692516024194,"frozenset({'recommend', 'like'})",2
+0.02058319039451115,"frozenset({'story', 'like'})",2
+0.013361018326261622,"frozenset({'like', 'think'})",2
+0.015347115645030242,"frozenset({'time', 'like'})",2
+0.011465198158346122,"frozenset({'way', 'like'})",2
+0.012277692516024194,"frozenset({'like', 'well'})",2
+0.025187325088020223,"frozenset({'like', 'would'})",2
+0.012006861063464836,"frozenset({'one', 'little'})",2
+0.01859709307574253,"frozenset({'little', 'read'})",2
+0.013451295477114742,"frozenset({'read', 'long'})",2
+0.011194366705786765,"frozenset({'look', 'read'})",2
+0.011104089554933647,"frozenset({'looking', 'read'})",2
+0.013992958382233456,"frozenset({'read', 'lot'})",2
+0.025638710842285816,"frozenset({'love', 'one'})",2
+0.03827751196172249,"frozenset({'love', 'read'})",2
+0.013992958382233456,"frozenset({'love', 'reading'})",2
+0.020131804640245554,"frozenset({'love', 'story'})",2
+0.01065270380066805,"frozenset({'time', 'love'})",2
+0.012819355421142908,"frozenset({'love', 'would'})",2
+0.01263880111943667,"frozenset({'loved', 'one'})",2
+0.021034576148776744,"frozenset({'loved', 'read'})",2
+0.010020763744696218,"frozenset({'made', 'one'})",2
+0.01579850139929584,"frozenset({'made', 'read'})",2
+0.011013812404080527,"frozenset({'make', 'one'})",2
+0.016881827209533268,"frozenset({'make', 'read'})",2
+0.016069332851855196,"frozenset({'makes', 'read'})",2
+0.018145707321476936,"frozenset({'one', 'many'})",2
+0.03358310011736029,"frozenset({'read', 'many'})",2
+0.011013812404080527,"frozenset({'many', 'reading'})",2
+0.01173602961090548,"frozenset({'story', 'many'})",2
+0.011826306761758599,"frozenset({'many', 'well'})",2
+0.010472149498961813,"frozenset({'many', 'would'})",2
+0.01083325810237429,"frozenset({'years', 'many'})",2
+0.019048478830008125,"frozenset({'much', 'one'})",2
+0.031777557100297914,"frozenset({'much', 'read'})",2
+0.013451295477114742,"frozenset({'much', 'reading'})",2
+0.010923535253227408,"frozenset({'much', 'really'})",2
+0.013451295477114742,"frozenset({'much', 'story'})",2
+0.010381872348108693,"frozenset({'much', 'time'})",2
+0.012819355421142908,"frozenset({'much', 'would'})",2
+0.01263880111943667,"frozenset({'one', 'must'})",2
+0.032499774307122864,"frozenset({'read', 'must'})",2
+0.010111040895549336,"frozenset({'need', 'read'})",2
+0.012367969666877313,"frozenset({'one', 'never'})",2
+0.0232012277692516,"frozenset({'read', 'never'})",2
+0.013812404080527219,"frozenset({'new', 'one'})",2
+0.01868737022659565,"frozenset({'new', 'read'})",2
+0.011374921007493004,"frozenset({'one', 'next'})",2
+0.01363184977882098,"frozenset({'next', 'read'})",2
+0.010923535253227408,"frozenset({'one', 'novel'})",2
+0.019229033131714365,"frozenset({'novel', 'read'})",2
+0.01074298095152117,"frozenset({'story', 'novel'})",2
+0.014895729890764648,"frozenset({'old', 'read'})",2
+0.012909632571996028,"frozenset({'old', 'year'})",2
+0.011555475309199242,"frozenset({'people', 'one'})",2
+0.016791550058680146,"frozenset({'put', 'one'})",2
+0.08937437934458789,"frozenset({'one', 'read'})",2
+0.029610905479823056,"frozenset({'one', 'reading'})",2
+0.02238873341157353,"frozenset({'one', 'really'})",2
+0.019860973187686197,"frozenset({'recommend', 'one'})",2
+0.010020763744696218,"frozenset({'see', 'one'})",2
+0.013361018326261622,"frozenset({'series', 'one'})",2
+0.01173602961090548,"frozenset({'still', 'one'})",2
+0.01074298095152117,"frozenset({'one', 'stories'})",2
+0.030874785591766724,"frozenset({'one', 'story'})",2
+0.016340164304414553,"frozenset({'one', 'think'})",2
+0.02618037374740453,"frozenset({'time', 'one'})",2
+0.010472149498961813,"frozenset({'one', 'two'})",2
+0.012006861063464836,"frozenset({'one', 'want'})",2
+0.01471517558905841,"frozenset({'way', 'one'})",2
+0.022840119165839126,"frozenset({'one', 'well'})",2
+0.01074298095152117,"frozenset({'wonderful', 'one'})",2
+0.01083325810237429,"frozenset({'work', 'one'})",2
+0.028888688272998102,"frozenset({'one', 'would'})",2
+0.010381872348108693,"frozenset({'one', 'writing'})",2
+0.018867924528301886,"frozenset({'one', 'written'})",2
+0.013902681231380337,"frozenset({'years', 'one'})",2
+0.01074298095152117,"frozenset({'page', 'read'})",2
+0.010291595197255575,"frozenset({'pages', 'read'})",2
+0.021847070506454815,"frozenset({'people', 'read'})",2
+0.01254852396858355,"frozenset({'read', 'plot'})",2
+0.028798411122144985,"frozenset({'put', 'read'})",2
+0.011645752460052361,"frozenset({'put', 'reading'})",2
+0.012367969666877313,"frozenset({'put', 'story'})",2
+0.012367969666877313,"frozenset({'reader', 'read'})",2
+0.0501940958743342,"frozenset({'read', 'reading'})",2
+0.014986007041617767,"frozenset({'real', 'read'})",2
+0.0411663807890223,"frozenset({'read', 'really'})",2
+0.03358310011736029,"frozenset({'recommend', 'read'})",2
+0.01579850139929584,"frozenset({'say', 'read'})",2
+0.017062381511239504,"frozenset({'see', 'read'})",2
+0.02148596190304234,"frozenset({'series', 'read'})",2
+0.01263880111943667,"frozenset({'something', 'read'})",2
+0.022027624808161055,"frozenset({'still', 'read'})",2
+0.014354066985645933,"frozenset({'read', 'stories'})",2
+0.056694050735758776,"frozenset({'story', 'read'})",2
+0.011465198158346122,"frozenset({'things', 'read'})",2
+0.024916493635460866,"frozenset({'think', 'read'})",2
+0.012277692516024194,"frozenset({'read', 'though'})",2
+0.017784598718064457,"frozenset({'thought', 'read'})",2
+0.0426108152026722,"frozenset({'time', 'read'})",2
+0.01977069603683308,"frozenset({'read', 'times'})",2
+0.012819355421142908,"frozenset({'two', 'read'})",2
+0.012909632571996028,"frozenset({'understand', 'read'})",2
+0.011916583912611719,"frozenset({'wait', 'read'})",2
+0.023110950618398483,"frozenset({'want', 'read'})",2
+0.024826216484607744,"frozenset({'way', 'read'})",2
+0.03574975173783516,"frozenset({'read', 'well'})",2
+0.010201318046402456,"frozenset({'read', 'without'})",2
+0.020222081791098672,"frozenset({'wonderful', 'read'})",2
+0.015256838494177125,"frozenset({'work', 'read'})",2
+0.014986007041617767,"frozenset({'read', 'world'})",2
+0.012999909722849147,"frozenset({'worth', 'read'})",2
+0.0445066353705877,"frozenset({'read', 'would'})",2
+0.01733321296379886,"frozenset({'read', 'writing'})",2
+0.02924979687641058,"frozenset({'written', 'read'})",2
+0.010923535253227408,"frozenset({'read', 'year'})",2
+0.023110950618398483,"frozenset({'years', 'read'})",2
+0.011374921007493004,"frozenset({'read', 'yet'})",2
+0.01579850139929584,"frozenset({'really', 'reading'})",2
+0.014354066985645933,"frozenset({'recommend', 'reading'})",2
+0.01977069603683308,"frozenset({'story', 'reading'})",2
+0.01643044145526767,"frozenset({'time', 'reading'})",2
+0.013902681231380337,"frozenset({'well', 'reading'})",2
+0.010111040895549336,"frozenset({'worth', 'reading'})",2
+0.019138755980861243,"frozenset({'would', 'reading'})",2
+0.011013812404080527,"frozenset({'written', 'reading'})",2
+0.010562426649814933,"frozenset({'recommend', 'really'})",2
+0.018145707321476936,"frozenset({'story', 'really'})",2
+0.010020763744696218,"frozenset({'think', 'really'})",2
+0.011826306761758599,"frozenset({'time', 'really'})",2
+0.014263789834792814,"frozenset({'really', 'would'})",2
+0.011555475309199242,"frozenset({'recommend', 'story'})",2
+0.011104089554933647,"frozenset({'recommend', 'well'})",2
+0.03349282296650718,"frozenset({'recommend', 'would'})",2
+0.015437392795883362,"frozenset({'time', 'story'})",2
+0.01173602961090548,"frozenset({'way', 'story'})",2
+0.017242935812945743,"frozenset({'story', 'well'})",2
+0.011013812404080527,"frozenset({'wonderful', 'story'})",2
+0.014534621287352171,"frozenset({'story', 'would'})",2
+0.014986007041617767,"frozenset({'story', 'written'})",2
+0.011916583912611719,"frozenset({'think', 'would'})",2
+0.010111040895549336,"frozenset({'thought', 'would'})",2
+0.012006861063464836,"frozenset({'time', 'well'})",2
+0.012909632571996028,"frozenset({'time', 'would'})",2
+0.014263789834792814,"frozenset({'well', 'would'})",2
+0.0274442538593482,"frozenset({'written', 'well'})",2
+0.01083325810237429,"frozenset({'ago', 'years', 'book'})",3
+0.010472149498961813,"frozenset({'good', 'also', 'book'})",3
+0.01363184977882098,"frozenset({'also', 'book', 'great'})",3
+0.01173602961090548,"frozenset({'also', 'one', 'book'})",3
+0.020131804640245554,"frozenset({'also', 'read', 'book'})",3
+0.01074298095152117,"frozenset({'read', 'book', 'another'})",3
+0.011013812404080527,"frozenset({'great', 'book', 'anyone'})",3
+0.019951250338539315,"frozenset({'read', 'book', 'anyone'})",3
+0.018145707321476936,"frozenset({'recommend', 'book', 'anyone'})",3
+0.015166561343324005,"frozenset({'would', 'book', 'anyone'})",3
+0.011916583912611719,"frozenset({'recommend', 'would', 'anyone'})",3
+0.011465198158346122,"frozenset({'author', 'one', 'book'})",3
+0.019048478830008125,"frozenset({'author', 'read', 'book'})",3
+0.010111040895549336,"frozenset({'back', 'read', 'book'})",3
+0.016249887153561432,"frozenset({'books', 'best', 'book'})",3
+0.015527669946736482,"frozenset({'ever', 'best', 'book'})",3
+0.010472149498961813,"frozenset({'ive', 'best', 'book'})",3
+0.022840119165839126,"frozenset({'one', 'best', 'book'})",3
+0.0293400740272637,"frozenset({'best', 'read', 'book'})",3
+0.016881827209533268,"frozenset({'books', 'one', 'best'})",3
+0.015888778550148957,"frozenset({'books', 'best', 'read'})",3
+0.01074298095152117,"frozenset({'ever', 'one', 'best'})",3
+0.015166561343324005,"frozenset({'ever', 'best', 'read'})",3
+0.011555475309199242,"frozenset({'ive', 'best', 'read'})",3
+0.019680418885979958,"frozenset({'one', 'best', 'read'})",3
+0.010111040895549336,"frozenset({'better', 'one', 'book'})",3
+0.015979055701002075,"frozenset({'better', 'read', 'book'})",3
+0.011374921007493004,"frozenset({'characters', 'books', 'book'})",3
+0.010923535253227408,"frozenset({'books', 'ever', 'book'})",3
+0.013902681231380337,"frozenset({'books', 'first', 'book'})",3
+0.011555475309199242,"frozenset({'books', 'book', 'get'})",3
+0.018055430170623814,"frozenset({'good', 'books', 'book'})",3
+0.01832626162318317,"frozenset({'books', 'book', 'great'})",3
+0.011374921007493004,"frozenset({'ive', 'books', 'book'})",3
+0.01787487586891758,"frozenset({'books', 'like', 'book'})",3
+0.01263880111943667,"frozenset({'books', 'love', 'book'})",3
+0.011826306761758599,"frozenset({'books', 'many', 'book'})",3
+0.01065270380066805,"frozenset({'much', 'books', 'book'})",3
+0.03990250067707863,"frozenset({'books', 'one', 'book'})",3
+0.05091631308115916,"frozenset({'books', 'read', 'book'})",3
+0.01760404441635822,"frozenset({'books', 'book', 'reading'})",3
+0.013541572627967862,"frozenset({'books', 'really', 'book'})",3
+0.01173602961090548,"frozenset({'recommend', 'books', 'book'})",3
+0.010291595197255575,"frozenset({'books', 'story', 'book'})",3
+0.011645752460052361,"frozenset({'books', 'time', 'book'})",3
+0.011104089554933647,"frozenset({'books', 'book', 'well'})",3
+0.012999909722849147,"frozenset({'books', 'book', 'would'})",3
+0.01074298095152117,"frozenset({'books', 'written', 'book'})",3
+0.01074298095152117,"frozenset({'bought', 'read', 'book'})",3
+0.014534621287352171,"frozenset({'cant', 'read', 'book'})",3
+0.010291595197255575,"frozenset({'characters', 'book', 'great'})",3
+0.01254852396858355,"frozenset({'characters', 'one', 'book'})",3
+0.022840119165839126,"frozenset({'characters', 'read', 'book'})",3
+0.014534621287352171,"frozenset({'characters', 'story', 'book'})",3
+0.012458246817730433,"frozenset({'one', 'book', 'could'})",3
+0.019229033131714365,"frozenset({'read', 'book', 'could'})",3
+0.011465198158346122,"frozenset({'couldnt', 'put', 'book'})",3
+0.012458246817730433,"frozenset({'couldnt', 'read', 'book'})",3
+0.012367969666877313,"frozenset({'didnt', 'read', 'book'})",3
+0.012367969666877313,"frozenset({'dont', 'like', 'book'})",3
+0.010381872348108693,"frozenset({'dont', 'one', 'book'})",3
+0.021034576148776744,"frozenset({'dont', 'read', 'book'})",3
+0.018867924528301886,"frozenset({'easy', 'read', 'book'})",3
+0.011645752460052361,"frozenset({'end', 'read', 'book'})",3
+0.016159610002708314,"frozenset({'enjoyed', 'read', 'book'})",3
+0.010381872348108693,"frozenset({'enjoyed', 'book', 'reading'})",3
+0.010381872348108693,"frozenset({'enjoyed', 'really', 'book'})",3
+0.010291595197255575,"frozenset({'one', 'even', 'book'})",3
+0.019229033131714365,"frozenset({'even', 'read', 'book'})",3
+0.01733321296379886,"frozenset({'ever', 'one', 'book'})",3
+0.02545815654057958,"frozenset({'ever', 'read', 'book'})",3
+0.01254852396858355,"frozenset({'every', 'one', 'book'})",3
+0.018416538774036293,"frozenset({'every', 'read', 'book'})",3
+0.010562426649814933,"frozenset({'everyone', 'read', 'book'})",3
+0.012458246817730433,"frozenset({'read', 'book', 'excellent'})",3
+0.01083325810237429,"frozenset({'favorite', 'read', 'book'})",3
+0.014895729890764648,"frozenset({'find', 'read', 'book'})",3
+0.012367969666877313,"frozenset({'first', 'book', 'great'})",3
+0.010381872348108693,"frozenset({'like', 'first', 'book'})",3
+0.01661099575697391,"frozenset({'one', 'first', 'book'})",3
+0.035659474586982036,"frozenset({'first', 'read', 'book'})",3
+0.014263789834792814,"frozenset({'first', 'book', 'reading'})",3
+0.011013812404080527,"frozenset({'story', 'first', 'book'})",3
+0.014173512683939694,"frozenset({'time', 'first', 'book'})",3
+0.010562426649814933,"frozenset({'first', 'book', 'would'})",3
+0.019048478830008125,"frozenset({'found', 'read', 'book'})",3
+0.01083325810237429,"frozenset({'fun', 'read', 'book'})",3
+0.010562426649814933,"frozenset({'good', 'book', 'get'})",3
+0.010201318046402456,"frozenset({'great', 'book', 'get'})",3
+0.011465198158346122,"frozenset({'like', 'book', 'get'})",3
+0.014444344136499051,"frozenset({'one', 'book', 'get'})",3
+0.024735939333754627,"frozenset({'read', 'book', 'get'})",3
+0.011645752460052361,"frozenset({'give', 'read', 'book'})",3
+0.011104089554933647,"frozenset({'going', 'read', 'book'})",3
+0.016972104360386386,"frozenset({'good', 'book', 'great'})",3
+0.020854021847070508,"frozenset({'good', 'like', 'book'})",3
+0.011555475309199242,"frozenset({'good', 'much', 'book'})",3
+0.02049291324365803,"frozenset({'good', 'one', 'book'})",3
+0.0426108152026722,"frozenset({'good', 'read', 'book'})",3
+0.014534621287352171,"frozenset({'good', 'book', 'reading'})",3
+0.01652071860612079,"frozenset({'good', 'really', 'book'})",3
+0.013090186873702265,"frozenset({'good', 'story', 'book'})",3
+0.011194366705786765,"frozenset({'good', 'think', 'book'})",3
+0.011374921007493004,"frozenset({'good', 'time', 'book'})",3
+0.012277692516024194,"frozenset({'good', 'book', 'well'})",3
+0.016159610002708314,"frozenset({'good', 'book', 'would'})",3
+0.010201318046402456,"frozenset({'read', 'book', 'got'})",3
+0.01083325810237429,"frozenset({'great', 'book', 'life'})",3
+0.019499864584273722,"frozenset({'like', 'book', 'great'})",3
+0.01579850139929584,"frozenset({'love', 'book', 'great'})",3
+0.010923535253227408,"frozenset({'many', 'book', 'great'})",3
+0.010201318046402456,"frozenset({'much', 'book', 'great'})",3
+0.02464566218290151,"frozenset({'one', 'book', 'great'})",3
+0.049562155818362374,"frozenset({'read', 'book', 'great'})",3
+0.016069332851855196,"frozenset({'great', 'book', 'reading'})",3
+0.015888778550148957,"frozenset({'really', 'book', 'great'})",3
+0.014895729890764648,"frozenset({'recommend', 'book', 'great'})",3
+0.01733321296379886,"frozenset({'story', 'book', 'great'})",3
+0.013902681231380337,"frozenset({'time', 'book', 'great'})",3
+0.010291595197255575,"frozenset({'way', 'book', 'great'})",3
+0.014444344136499051,"frozenset({'book', 'well', 'great'})",3
+0.017242935812945743,"frozenset({'great', 'book', 'would'})",3
+0.013812404080527219,"frozenset({'highly', 'read', 'book'})",3
+0.024735939333754627,"frozenset({'recommend', 'highly', 'book'})",3
+0.010562426649814933,"frozenset({'history', 'read', 'book'})",3
+0.01661099575697391,"frozenset({'read', 'book', 'interesting'})",3
+0.012006861063464836,"frozenset({'ive', 'one', 'book'})",3
+0.024555385032048387,"frozenset({'ive', 'read', 'book'})",3
+0.01083325810237429,"frozenset({'one', 'book', 'know'})",3
+0.018958201679155007,"frozenset({'read', 'book', 'know'})",3
+0.012458246817730433,"frozenset({'one', 'book', 'life'})",3
+0.02527760223887334,"frozenset({'read', 'book', 'life'})",3
+0.010020763744696218,"frozenset({'reading', 'book', 'life'})",3
+0.01083325810237429,"frozenset({'love', 'like', 'book'})",3
+0.011916583912611719,"frozenset({'much', 'like', 'book'})",3
+0.022208179109867294,"frozenset({'one', 'like', 'book'})",3
+0.039812223526225515,"frozenset({'like', 'read', 'book'})",3
+0.01769432156721134,"frozenset({'like', 'book', 'reading'})",3
+0.01670127290782703,"frozenset({'like', 'really', 'book'})",3
+0.010562426649814933,"frozenset({'recommend', 'like', 'book'})",3
+0.015708224248442718,"frozenset({'like', 'story', 'book'})",3
+0.01065270380066805,"frozenset({'like', 'think', 'book'})",3
+0.011645752460052361,"frozenset({'time', 'like', 'book'})",3
+0.0194095874334206,"frozenset({'like', 'book', 'would'})",3
+0.013361018326261622,"frozenset({'little', 'read', 'book'})",3
+0.011645752460052361,"frozenset({'read', 'book', 'lot'})",3
+0.01760404441635822,"frozenset({'love', 'one', 'book'})",3
+0.029520628328969938,"frozenset({'love', 'read', 'book'})",3
+0.010291595197255575,"frozenset({'love', 'book', 'reading'})",3
+0.01263880111943667,"frozenset({'love', 'story', 'book'})",3
+0.01787487586891758,"frozenset({'loved', 'read', 'book'})",3
+0.01254852396858355,"frozenset({'made', 'read', 'book'})",3
+0.012819355421142908,"frozenset({'make', 'read', 'book'})",3
+0.012999909722849147,"frozenset({'makes', 'read', 'book'})",3
+0.013541572627967862,"frozenset({'many', 'one', 'book'})",3
+0.025728987993138937,"frozenset({'many', 'read', 'book'})",3
+0.013180464024555385,"frozenset({'much', 'one', 'book'})",3
+0.025006770786313984,"frozenset({'much', 'read', 'book'})",3
+0.01074298095152117,"frozenset({'much', 'book', 'reading'})",3
+0.02464566218290151,"frozenset({'must', 'read', 'book'})",3
+0.018777647377448768,"frozenset({'read', 'book', 'never'})",3
+0.010020763744696218,"frozenset({'new', 'one', 'book'})",3
+0.013992958382233456,"frozenset({'new', 'read', 'book'})",3
+0.011013812404080527,"frozenset({'next', 'read', 'book'})",3
+0.010923535253227408,"frozenset({'novel', 'read', 'book'})",3
+0.01065270380066805,"frozenset({'old', 'read', 'book'})",3
+0.012367969666877313,"frozenset({'put', 'one', 'book'})",3
+0.06427733140742078,"frozenset({'one', 'read', 'book'})",3
+0.021576239053895458,"frozenset({'one', 'book', 'reading'})",3
+0.015347115645030242,"frozenset({'one', 'really', 'book'})",3
+0.0156179470975896,"frozenset({'recommend', 'one', 'book'})",3
+0.02058319039451115,"frozenset({'one', 'story', 'book'})",3
+0.01254852396858355,"frozenset({'one', 'think', 'book'})",3
+0.017423490114651982,"frozenset({'time', 'one', 'book'})",3
+0.01083325810237429,"frozenset({'way', 'one', 'book'})",3
+0.015888778550148957,"frozenset({'one', 'book', 'well'})",3
+0.021756793355601697,"frozenset({'one', 'book', 'would'})",3
+0.013541572627967862,"frozenset({'one', 'written', 'book'})",3
+0.0175137672655051,"frozenset({'people', 'read', 'book'})",3
+0.022659564864132887,"frozenset({'put', 'read', 'book'})",3
+0.038999729168547444,"frozenset({'read', 'book', 'reading'})",3
+0.01173602961090548,"frozenset({'real', 'read', 'book'})",3
+0.03231922000541663,"frozenset({'read', 'book', 'really'})",3
+0.02726369955764196,"frozenset({'recommend', 'read', 'book'})",3
+0.012367969666877313,"frozenset({'say', 'read', 'book'})",3
+0.013451295477114742,"frozenset({'see', 'read', 'book'})",3
+0.013812404080527219,"frozenset({'series', 'read', 'book'})",3
+0.016159610002708314,"frozenset({'still', 'read', 'book'})",3
+0.04008305497878487,"frozenset({'story', 'read', 'book'})",3
+0.02058319039451115,"frozenset({'think', 'read', 'book'})",3
+0.014354066985645933,"frozenset({'thought', 'read', 'book'})",3
+0.033763654419066536,"frozenset({'time', 'read', 'book'})",3
+0.016069332851855196,"frozenset({'read', 'book', 'times'})",3
+0.011013812404080527,"frozenset({'understand', 'read', 'book'})",3
+0.018416538774036293,"frozenset({'want', 'read', 'book'})",3
+0.019229033131714365,"frozenset({'way', 'read', 'book'})",3
+0.02717342240678884,"frozenset({'read', 'book', 'well'})",3
+0.015166561343324005,"frozenset({'wonderful', 'read', 'book'})",3
+0.010201318046402456,"frozenset({'work', 'read', 'book'})",3
+0.011645752460052361,"frozenset({'read', 'book', 'world'})",3
+0.010201318046402456,"frozenset({'worth', 'read', 'book'})",3
+0.0354789202852758,"frozenset({'read', 'book', 'would'})",3
+0.012909632571996028,"frozenset({'read', 'book', 'writing'})",3
+0.02247901056242665,"frozenset({'written', 'read', 'book'})",3
+0.0175137672655051,"frozenset({'years', 'read', 'book'})",3
+0.012458246817730433,"frozenset({'really', 'book', 'reading'})",3
+0.01173602961090548,"frozenset({'recommend', 'book', 'reading'})",3
+0.014263789834792814,"frozenset({'story', 'book', 'reading'})",3
+0.01272907827028979,"frozenset({'time', 'book', 'reading'})",3
+0.010472149498961813,"frozenset({'book', 'well', 'reading'})",3
+0.015437392795883362,"frozenset({'would', 'book', 'reading'})",3
+0.013090186873702265,"frozenset({'story', 'really', 'book'})",3
+0.011374921007493004,"frozenset({'really', 'book', 'would'})",3
+0.027715085311907556,"frozenset({'recommend', 'book', 'would'})",3
+0.010472149498961813,"frozenset({'time', 'story', 'book'})",3
+0.011465198158346122,"frozenset({'story', 'book', 'well'})",3
+0.010381872348108693,"frozenset({'story', 'book', 'would'})",3
+0.010111040895549336,"frozenset({'story', 'written', 'book'})",3
+0.010291595197255575,"frozenset({'think', 'book', 'would'})",3
+0.011104089554933647,"frozenset({'book', 'well', 'would'})",3
+0.02040263609280491,"frozenset({'written', 'book', 'well'})",3
+0.010111040895549336,"frozenset({'characters', 'books', 'read'})",3
+0.011194366705786765,"frozenset({'books', 'ever', 'one'})",3
+0.012187415365171076,"frozenset({'books', 'ever', 'read'})",3
+0.011284643856639884,"frozenset({'books', 'first', 'read'})",3
+0.01074298095152117,"frozenset({'good', 'books', 'read'})",3
+0.011555475309199242,"frozenset({'books', 'one', 'great'})",3
+0.013270741175408505,"frozenset({'books', 'read', 'great'})",3
+0.013541572627967862,"frozenset({'ive', 'books', 'read'})",3
+0.012367969666877313,"frozenset({'books', 'like', 'read'})",3
+0.010201318046402456,"frozenset({'books', 'love', 'read'})",3
+0.034846980229303964,"frozenset({'books', 'one', 'read'})",3
+0.01074298095152117,"frozenset({'books', 'one', 'reading'})",3
+0.014444344136499051,"frozenset({'books', 'read', 'reading'})",3
+0.010111040895549336,"frozenset({'books', 'read', 'really'})",3
+0.010291595197255575,"frozenset({'books', 'read', 'would'})",3
+0.01652071860612079,"frozenset({'ever', 'one', 'read'})",3
+0.011465198158346122,"frozenset({'one', 'first', 'read'})",3
+0.010111040895549336,"frozenset({'good', 'like', 'read'})",3
+0.013090186873702265,"frozenset({'good', 'one', 'read'})",3
+0.01661099575697391,"frozenset({'one', 'read', 'great'})",3
+0.01173602961090548,"frozenset({'story', 'read', 'great'})",3
+0.011374921007493004,"frozenset({'recommend', 'highly', 'read'})",3
+0.013541572627967862,"frozenset({'ive', 'one', 'read'})",3
+0.011916583912611719,"frozenset({'one', 'like', 'read'})",3
+0.012187415365171076,"frozenset({'love', 'read', 'one'})",3
+0.010201318046402456,"frozenset({'put', 'one', 'read'})",3
+0.013451295477114742,"frozenset({'one', 'read', 'reading'})",3
+0.01083325810237429,"frozenset({'one', 'read', 'really'})",3
+0.01462489843820529,"frozenset({'one', 'story', 'read'})",3
+0.012097138214317956,"frozenset({'time', 'one', 'read'})",3
+0.010381872348108693,"frozenset({'one', 'read', 'well'})",3
+0.013541572627967862,"frozenset({'one', 'read', 'would'})",3
+0.010020763744696218,"frozenset({'read', 'one', 'written'})",3
+0.012187415365171076,"frozenset({'recommend', 'read', 'would'})",3
+0.010020763744696218,"frozenset({'written', 'read', 'well'})",3
+0.010020763744696218,"frozenset({'recommend', 'would', 'book', 'anyone'})",4
+0.011465198158346122,"frozenset({'books', 'one', 'best', 'book'})",4
+0.011104089554933647,"frozenset({'books', 'best', 'read', 'book'})",4
+0.011916583912611719,"frozenset({'ever', 'best', 'read', 'book'})",4
+0.014083235533086576,"frozenset({'one', 'best', 'read', 'book'})",4
+0.012097138214317956,"frozenset({'books', 'one', 'best', 'read'})",4
+0.023923444976076555,"frozenset({'books', 'one', 'read', 'book'})",4
+0.01083325810237429,"frozenset({'books', 'read', 'book', 'reading'})",4
+0.012909632571996028,"frozenset({'ever', 'one', 'read', 'book'})",4
+0.01173602961090548,"frozenset({'one', 'read', 'book', 'great'})",4
+0.011104089554933647,"frozenset({'one', 'read', 'book', 'reading'})",4
+0.010111040895549336,"frozenset({'one', 'story', 'read', 'book'})",4
+0.010562426649814933,"frozenset({'one', 'read', 'book', 'would'})",4
+0.010201318046402456,"frozenset({'recommend', 'read', 'book', 'would'})",4

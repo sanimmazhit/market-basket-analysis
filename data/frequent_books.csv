@@ -1,0 +1,228 @@
+support,itemsets,length
+0.012787861011153161,frozenset({'The Hobbit'}),1
+0.012784283987094098,frozenset({'The Hobbit There and Back Again'}),1
+0.012784283987094098,"frozenset({'The Hobbit There and Back Again', 'The Hobbit'})",2
+0.012741359698385331,"frozenset({'The Hobbitt, or there and back again; illustrated by the author.', 'The Hobbit'})",2
+0.012741359698385331,"frozenset({'The Hobbitt, or there and back again; illustrated by the author.'})",1
+0.012737782674326268,"frozenset({'The Hobbit There and Back Again', 'The Hobbitt, or there and back again; illustrated by the author.'})",2
+0.012737782674326268,"frozenset({'The Hobbit There and Back Again', 'The Hobbitt, or there and back again; illustrated by the author.', 'The Hobbit'})",3
+0.012558931471373077,"frozenset({'The Hobbit', 'The Hobbit or There and Back Again'})",2
+0.012558931471373077,"frozenset({'The Hobbit There and Back Again', 'The Hobbit or There and Back Again'})",2
+0.012558931471373077,"frozenset({'The Hobbit There and Back Again', 'The Hobbit', 'The Hobbit or There and Back Again'})",3
+0.012558931471373077,frozenset({'The Hobbit or There and Back Again'}),1
+0.012537469327018694,"frozenset({'The Hobbit There and Back Again', 'The Hobbitt, or there and back again; illustrated by the author.', 'The Hobbit or There and Back Again'})",3
+0.012537469327018694,"frozenset({'The Hobbitt, or there and back again; illustrated by the author.', 'The Hobbit', 'The Hobbit or There and Back Again'})",3
+0.012537469327018694,"frozenset({'The Hobbitt, or there and back again; illustrated by the author.', 'The Hobbit or There and Back Again'})",2
+0.012537469327018694,"frozenset({'The Hobbit There and Back Again', 'The Hobbitt, or there and back again; illustrated by the author.', 'The Hobbit', 'The Hobbit or There and Back Again'})",4
+0.012190497993289503,"frozenset({'The Hobbit; Or, There and Back Again', 'The Hobbit'})",2
+0.012190497993289503,"frozenset({'The Hobbit; Or, There and Back Again'})",1
+0.01218692096923044,"frozenset({'The Hobbit There and Back Again', 'The Hobbit; Or, There and Back Again', 'The Hobbit'})",3
+0.01218692096923044,"frozenset({'The Hobbit There and Back Again', 'The Hobbit; Or, There and Back Again'})",2
+0.01216903584893512,"frozenset({'The Hobbit; Or, There and Back Again', 'The Hobbitt, or there and back again; illustrated by the author.'})",2
+0.01216903584893512,"frozenset({'The Hobbit; Or, There and Back Again', 'The Hobbitt, or there and back again; illustrated by the author.', 'The Hobbit'})",3
+0.012165458824876057,"frozenset({'The Hobbit There and Back Again', 'The Hobbit; Or, There and Back Again', 'The Hobbitt, or there and back again; illustrated by the author.'})",3
+0.012165458824876057,"frozenset({'The Hobbit There and Back Again', 'The Hobbit; Or, There and Back Again', 'The Hobbitt, or there and back again; illustrated by the author.', 'The Hobbit'})",4
+0.011997338694100057,"frozenset({'The Hobbit; Or, There and Back Again', 'The Hobbit', 'The Hobbit or There and Back Again'})",3
+0.011997338694100057,"frozenset({'The Hobbit There and Back Again', 'The Hobbit; Or, There and Back Again', 'The Hobbit or There and Back Again'})",3
+0.011997338694100057,"frozenset({'The Hobbit There and Back Again', 'The Hobbit; Or, There and Back Again', 'The Hobbit', 'The Hobbit or There and Back Again'})",4
+0.011997338694100057,"frozenset({'The Hobbit; Or, There and Back Again', 'The Hobbit or There and Back Again'})",2
+0.011975876549745674,"frozenset({'The Hobbit or There and Back Again', 'The Hobbit There and Back Again', 'The Hobbit; Or, There and Back Again', 'The Hobbitt, or there and back again; illustrated by the author.', 'The Hobbit'})",5
+0.011975876549745674,"frozenset({'The Hobbit There and Back Again', 'The Hobbit; Or, There and Back Again', 'The Hobbitt, or there and back again; illustrated by the author.', 'The Hobbit or There and Back Again'})",4
+0.011975876549745674,"frozenset({'The Hobbit; Or, There and Back Again', 'The Hobbitt, or there and back again; illustrated by the author.', 'The Hobbit or There and Back Again'})",3
+0.011975876549745674,"frozenset({'The Hobbit; Or, There and Back Again', 'The Hobbitt, or there and back again; illustrated by the author.', 'The Hobbit', 'The Hobbit or There and Back Again'})",4
+0.007615484221746876,frozenset({'The Catcher in the Rye'}),1
+0.00760117612551062,"frozenset({'The Catcher in the Rye [Audiobook] [Cd] [Unabridged] (Audio CD)', 'The Catcher in the Rye'})",2
+0.00760117612551062,frozenset({'The Catcher in the Rye [Audiobook] [Cd] [Unabridged] (Audio CD)'}),1
+0.007565405884919982,frozenset({'THE CATCHER IN THE RYE'}),1
+0.007565405884919982,"frozenset({'THE CATCHER IN THE RYE', 'The Catcher in the Rye'})",2
+0.007565405884919982,"frozenset({'The Catcher in the Rye [Audiobook] [Cd] [Unabridged] (Audio CD)', 'THE CATCHER IN THE RYE'})",2
+0.007565405884919982,"frozenset({'The Catcher in the Rye [Audiobook] [Cd] [Unabridged] (Audio CD)', 'The Catcher in the Rye', 'THE CATCHER IN THE RYE'})",3
+0.006649687725799644,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)'})",1
+0.00664611070174058,frozenset({'The Lord of the Rings (3 Volume Set)'}),1
+0.00664611070174058,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)'})",2
+0.006642533677681516,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase'})",2
+0.006642533677681516,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)'})",2
+0.006642533677681516,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings (3 Volume Set)'})",3
+0.006642533677681516,frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase'}),1
+0.006624648557386197,frozenset({'The Lord of the Rings - Boxed Set'}),1
+0.006624648557386197,"frozenset({'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)'})",2
+0.006621071533327133,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set'})",2
+0.006621071533327133,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)'})",3
+0.006617494509268069,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)'})",3
+0.006617494509268069,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase'})",3
+0.006617494509268069,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)'})",2
+0.006617494509268069,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings (3 Volume Set)'})",4
+0.006617494509268069,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)'})",3
+0.006617494509268069,"frozenset({'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)'})",1
+0.006617494509268069,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings - Boxed Set'})",2
+0.006617494509268069,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)'})",2
+0.006613917485209005,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)'})",3
+0.006613917485209005,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase'})",3
+0.006613917485209005,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings (3 Volume Set)'})",4
+0.006613917485209005,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)'})",2
+0.006610340461149941,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy 3 Volumes'})",2
+0.006610340461149941,frozenset({'The Lord of the Rings Trilogy 3 Volumes'}),1
+0.006610340461149941,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes'})",2
+0.006610340461149941,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.006606763437090878,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy 3 Volumes'})",2
+0.006606763437090878,"frozenset({'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Trilogy 3 Volumes'})",2
+0.006606763437090878,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.006606763437090878,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.006606763437090878,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.006606763437090878,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.006606763437090878,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.006606763437090878,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.006603186413031814,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.006603186413031814,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.006603186413031814,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)'})",5
+0.006603186413031814,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.006592455340854623,"frozenset({'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)'})",3
+0.006592455340854623,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)'})",4
+0.006592455340854623,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)'})",3
+0.006592455340854623,"frozenset({'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)'})",2
+0.006588878316795559,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase'})",4
+0.006588878316795559,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)'})",3
+0.006588878316795559,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)'})",4
+0.006588878316795559,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings - Boxed Set'})",5
+0.006585301292736495,"frozenset({'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.006585301292736495,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.006585301292736495,"frozenset({'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy 3 Volumes'})",2
+0.006585301292736495,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.006581724268677431,"frozenset({'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.006581724268677431,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.006581724268677431,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings - Boxed Set'})",5
+0.006581724268677431,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings - Boxed Set'})",5
+0.006581724268677431,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.006581724268677431,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.006581724268677431,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.006581724268677431,"frozenset({'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.0065781472446183676,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings - Boxed Set'})",5
+0.0065781472446183676,"frozenset({'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings - Boxed Set'})",5
+0.0065781472446183676,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.0065781472446183676,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings - Boxed Set'})",6
+0.0065674161724411755,frozenset({'The Lord of the Rings Box Set'}),1
+0.006560262124323048,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",4
+0.006560262124323048,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",3
+0.006560262124323048,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Box Set'})",2
+0.006560262124323048,"frozenset({'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",2
+0.006560262124323048,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Box Set'})",2
+0.006560262124323048,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Box Set'})",3
+0.006560262124323048,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",3
+0.006556685100263984,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase'})",4
+0.006556685100263984,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",5
+0.006556685100263984,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase'})",3
+0.006556685100263984,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",4
+0.006556685100263984,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Box Set'})",4
+0.006556685100263984,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Box Set'})",3
+0.006556685100263984,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Box Set'})",2
+0.006556685100263984,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",3
+0.006549531052145857,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.006549531052145857,"frozenset({'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",2
+0.006549531052145857,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",5
+0.006549531052145857,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.006549531052145857,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.006549531052145857,"frozenset({'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.006549531052145857,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.006549531052145857,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.006545954028086793,"frozenset({'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",5
+0.006545954028086793,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.006545954028086793,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.006545954028086793,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",5
+0.006545954028086793,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.006545954028086793,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.006545954028086793,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Box Set'})",5
+0.006545954028086793,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",6
+0.006535222955909602,"frozenset({'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Box Set'})",2
+0.006535222955909602,"frozenset({'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Box Set'})",3
+0.006535222955909602,"frozenset({'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",3
+0.006535222955909602,"frozenset({'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",4
+0.006535222955909602,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",5
+0.006535222955909602,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",4
+0.006535222955909602,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Box Set'})",3
+0.006535222955909602,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Box Set'})",4
+0.006531645931850538,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase'})",4
+0.006531645931850538,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set'})",4
+0.006531645931850538,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",5
+0.006531645931850538,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",5
+0.006531645931850538,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",6
+0.006531645931850538,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Box Set'})",3
+0.006531645931850538,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Box Set'})",4
+0.006531645931850538,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",5
+0.00652449188373241,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",5
+0.00652449188373241,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",6
+0.00652449188373241,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",5
+0.00652449188373241,"frozenset({'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.00652449188373241,"frozenset({'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.00652449188373241,"frozenset({'The Lord of the Rings - Boxed Set', 'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.00652449188373241,"frozenset({'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",3
+0.00652449188373241,"frozenset({'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",5
+0.0065209148596733464,"frozenset({'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",6
+0.0065209148596733464,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",7
+0.0065209148596733464,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",6
+0.0065209148596733464,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",6
+0.0065209148596733464,"frozenset({'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings - Boxed Set', 'The Lord of the Rings Box Set', 'The Lord of the Rings Trilogy 3 Volumes'})",4
+0.0065209148596733464,"frozenset({'The Lord Of The Rings THREE VOLUME BOXED SET (The Fellowship Of The Ring, The Return of The King, The Two towers)', 'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",5
+0.0065209148596733464,"frozenset({'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Trilogy (The Fellowship of the Ring, The Two Towers, The Return of the King, I, II, III)', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",5
+0.0065209148596733464,"frozenset({'The Lord of the Rings Trilogy 3 Volumes', 'The Lord of the Rings (3 Volume Set)', 'The Lord of the Rings Trilogy: Three Volumes in Slipcase', 'The Lord of the Rings Box Set', 'The Lord of the Rings - Boxed Set'})",5
+0.006288408295834198,frozenset({'Pride & Prejudice (Penguin Classics)'}),1
+0.006284831271775134,"frozenset({'Pride & Prejudice (Penguin Classics)', 'Pride and Prejudice'})",2
+0.006284831271775134,frozenset({'Pride and Prejudice'}),1
+0.00628125424771607,"frozenset({'Pride & Prejudice (Penguin Classics)', 'Pride & Prejudice (New Windmill)', 'Pride and Prejudice'})",3
+0.00628125424771607,frozenset({'Pride & Prejudice (New Windmill)'}),1
+0.00628125424771607,"frozenset({'Pride & Prejudice (New Windmill)', 'Pride and Prejudice'})",2
+0.00628125424771607,"frozenset({'Pride & Prejudice (Penguin Classics)', 'Pride & Prejudice (New Windmill)'})",2
+0.006274100199597943,"frozenset({'Pride & Prejudice (New Windmill)', 'Pride & Prejudice (Classic Library)', 'Pride and Prejudice'})",3
+0.006274100199597943,"frozenset({'Pride & Prejudice (Penguin Classics)', 'Pride & Prejudice (New Windmill)', 'Pride & Prejudice (Classic Library)'})",3
+0.006274100199597943,frozenset({'Pride & Prejudice (Classic Library)'}),1
+0.006274100199597943,"frozenset({'Pride & Prejudice (Classic Library)', 'Pride and Prejudice'})",2
+0.006274100199597943,"frozenset({'Pride & Prejudice (Penguin Classics)', 'Pride & Prejudice (Classic Library)', 'Pride and Prejudice'})",3
+0.006274100199597943,"frozenset({'Pride & Prejudice (Penguin Classics)', 'Pride & Prejudice (Classic Library)'})",2
+0.006274100199597943,"frozenset({'Pride & Prejudice (New Windmill)', 'Pride & Prejudice (Classic Library)'})",2
+0.006274100199597943,"frozenset({'Pride & Prejudice (Penguin Classics)', 'Pride & Prejudice (New Windmill)', 'Pride & Prejudice (Classic Library)', 'Pride and Prejudice'})",4
+0.005784047903506199,frozenset({'To Kill a Mocking Bird'}),1
+0.005780470879447135,"frozenset({'To Kill a Mocking Bird', 'To kill a mockingbird'})",2
+0.005780470879447135,frozenset({'To kill a mockingbird'}),1
+0.005776893855388071,frozenset({'To Kill a Mockingbird'}),1
+0.005776893855388071,"frozenset({'To Kill a Mockingbird', 'To Kill a Mocking Bird'})",2
+0.005776893855388071,"frozenset({'To Kill a Mockingbird', 'To Kill a Mocking Bird', 'To kill a mockingbird'})",3
+0.005776893855388071,"frozenset({'To Kill a Mockingbird', 'To kill a mockingbird'})",2
+0.0057482776629155605,"frozenset({""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)""})",1
+0.005744700638856497,"frozenset({""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)"", 'To Kill A Mockingbird'})",2
+0.005744700638856497,frozenset({'To Kill A Mockingbird'}),1
+0.005741123614797433,"frozenset({""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)"", 'To Kill A Mockingbird', 'To Kill a Mocking Bird'})",3
+0.005741123614797433,"frozenset({'To Kill a Mocking Bird', 'To Kill A Mockingbird'})",2
+0.005741123614797433,"frozenset({""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)"", 'To Kill a Mocking Bird'})",2
+0.005737546590738369,"frozenset({""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)"", 'To kill a mockingbird', 'To Kill a Mocking Bird'})",3
+0.005737546590738369,"frozenset({""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)"", 'To kill a mockingbird'})",2
+0.005737546590738369,"frozenset({'To Kill A Mockingbird', ""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)"", 'To kill a mockingbird', 'To Kill a Mocking Bird'})",4
+0.005737546590738369,"frozenset({'To Kill A Mockingbird', 'To kill a mockingbird'})",2
+0.005737546590738369,"frozenset({'To Kill A Mockingbird', ""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)"", 'To kill a mockingbird'})",3
+0.005737546590738369,"frozenset({'To Kill A Mockingbird', 'To Kill a Mocking Bird', 'To kill a mockingbird'})",3
+0.005733969566679305,"frozenset({'To Kill a Mockingbird', ""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)"", 'To Kill A Mockingbird'})",3
+0.005733969566679305,"frozenset({'To Kill a Mockingbird', 'To Kill A Mockingbird'})",2
+0.005733969566679305,"frozenset({'To Kill a Mockingbird', ""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)"", 'To kill a mockingbird'})",3
+0.005733969566679305,"frozenset({'To Kill a Mockingbird', ""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)"", 'To Kill a Mocking Bird'})",3
+0.005733969566679305,"frozenset({'To Kill a Mockingbird', ""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)""})",2
+0.005733969566679305,"frozenset({'To Kill a Mockingbird', ""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)"", 'To Kill A Mockingbird', 'To Kill a Mocking Bird'})",4
+0.005733969566679305,"frozenset({'To Kill A Mockingbird', ""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)"", 'To kill a mockingbird', 'To Kill a Mockingbird'})",4
+0.005733969566679305,"frozenset({'To Kill a Mockingbird', ""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)"", 'To kill a mockingbird', 'To Kill a Mocking Bird'})",4
+0.005733969566679305,"frozenset({'To Kill a Mockingbird', 'To Kill a Mocking Bird', 'To Kill A Mockingbird'})",3
+0.005733969566679305,"frozenset({'To Kill A Mockingbird', 'To kill a mockingbird', 'To Kill a Mockingbird'})",3
+0.005733969566679305,"frozenset({'To Kill A Mockingbird', 'To Kill a Mocking Bird', 'To kill a mockingbird', 'To Kill a Mockingbird'})",4
+0.005733969566679305,"frozenset({'To Kill A Mockingbird', ""Harper Lee's To Kill a Mockingbird (Barron's Book Notes)"", 'To Kill a Mocking Bird', 'To Kill a Mockingbird', 'To kill a mockingbird'})",5
+0.005612350748671136,"frozenset({""Harry Potter and The Sorcerer's Stone""})",1
+0.005150914645051903,"frozenset({'1984', 'Nineteen Eighty-four'})",2
+0.005150914645051903,frozenset({'1984'}),1
+0.005150914645051903,frozenset({'Nineteen Eighty-four'}),1
+0.005097259284165945,"frozenset({'1984', 'George Orwell 1984', 'Nineteen Eighty-four'})",3
+0.005097259284165945,frozenset({'George Orwell 1984'}),1
+0.005097259284165945,"frozenset({'1984', 'George Orwell 1984'})",2
+0.005097259284165945,"frozenset({'George Orwell 1984', 'Nineteen Eighty-four'})",2
+0.005072220115752498,frozenset({'Great Gatsby (Everyman)'}),1
+0.005068643091693434,"frozenset({'The Great Gatsby', 'Great Gatsby (Everyman)'})",2
+0.005068643091693434,frozenset({'The Great Gatsby'}),1
+0.0050257188029846685,frozenset({'The Red Tent (Bestselling Backlist)'}),1
+0.005022141778925605,"frozenset({'The Great Gatsby', 'Great Gatsby (Everyman)', 'The great Gatsby (Leading English literature library)'})",3
+0.005022141778925605,"frozenset({'Great Gatsby (Everyman)', 'The great Gatsby (Leading English literature library)'})",2
+0.005022141778925605,"frozenset({'The Great Gatsby', 'The great Gatsby (Leading English literature library)'})",2
+0.005022141778925605,frozenset({'The great Gatsby (Leading English literature library)'}),1
