@@ -1,4 +1,4 @@
-# market-basket-analysis on Amazon books reviews
+# Market-basket-analysis on Amazon books reviews
 
 This is our final project for the course, where we analyze book review data from Amazon using Market-Basket Analysis.
 
