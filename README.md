@@ -14,11 +14,11 @@ We focus on two approaches:
 ## Project Structure
 
 market-basket-analysis/  
-├── data/             - Contains dataset files (downloaded via Kaggle API)  
-├── images/           - Graphs and visualizations  
-├── notebooks/        - Main analysis notebook (runs on Google Colab)  
-├── report/           - Report written in LaTeX  
-└── README.md         - Project overview and links  
+ data/             - Contains dataset files (downloaded via Kaggle API)  
+ images/           - Graphs and visualizations  
+ notebooks/        - Main analysis notebook (runs on Google Colab)  
+ report/           - Report written in LaTeX  
+ README.md         - Project overview and links  
 
 ## Team Members
 
