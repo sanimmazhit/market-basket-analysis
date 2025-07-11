@@ -28,7 +28,7 @@ market-basket-analysis/
 ## Dataset
 
 The dataset used is the Amazon Book Reviews dataset available on Kaggle under a public domain (CC0) license.  
-Link: https://www.kaggle.com/datasets
+Link: [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)
 
 
 
