@@ -1,6 +1,6 @@
 # Market-basket-analysis on Amazon books reviews
 
-This is our final project for the course, where we analyze book review data from Amazon using Market-Basket Analysis.
+This is our final project for the course, where we analyze book review data from Amazon using Market-Basket Analysis
 
 We focus on two approaches:
 - Finding frequent word combinations in review texts
@@ -27,7 +27,7 @@ market-basket-analysis/
 
 ## Dataset
 
-The dataset used is the Amazon Book Reviews dataset available on Kaggle under a public domain (CC0) license.  
+The dataset used is the Amazon Book Reviews dataset available on Kaggle under a public domain (CC0) license
 Link: [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)
 
 
